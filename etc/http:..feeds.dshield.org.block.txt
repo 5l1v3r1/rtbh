@@ -1,0 +1,64 @@
+
+
+#      
+#   DShield.org Recommended Block List 
+#    (c) 2007 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://feeds.dshield.org/block.txt
+#     PGP Sign.: http://feeds.dshield.org/block.txt.asc
+#
+#   comments: info@dshield.org
+#    updated: Sun Nov 25 01:41:36 2012 UTC
+#   
+#    This list summarized the top 20 attacking class C (/24) subnets
+#   over the last three days. The number of 'attacks' indicates the 
+#   number of targets reporting scans from this subnet.
+#
+#    At the end of the list, a number of reserved/unassigned network
+#   ranges are listed.
+#
+#    Columns (tab delimited):
+#
+#    (1) start of netblock  
+#    (2) end of netblock
+#    (3) subnet (/24 for class C)
+#    (4) number of targets scanned
+#    (5) name of Network 
+#    (6) Country
+#    (7) contact email address
+#
+#    If a range is assigned to multiple users, the first one is listed. 
+#     
+Start	End	Netblock	Attacks	Name	Country	email
+180.131.3.0	180.131.3.255	24	54209			
+220.225.126.0	220.225.126.255	24	38123		IN	antiabuse.support@relianceinfo.com
+108.29.41.0	108.29.41.255	24	4928	VZGNI-TRANSIT - Verizon Internet Services Inc.	US	arin@nobistech.net
+112.14.20.0	112.14.20.255	24	4907	CMNET-GD Guangdong Mobile Communication Co.Ltd.	CN	abuse@jsinfo.net
+77.232.232.0	77.232.232.255	24	3596			
+221.232.155.0	221.232.155.255	24	3012	CHINANET-BACKBONE No.31,Jin-rong Street	CN	abuse_hb@public.wh.hb.cn
+183.19.47.0	183.19.47.255	24	2017	CHINANET-BACKBONE No.31,Jin-rong Street	CN	bad userid (abuse_gdnoc)bad userid (abuse_gdnoc)bad userid (abuse_gdnoc)IPMASTER is not for spam complaint,please send spam complaint to abuse_gdnoc@189.cn
+95.9.215.0	95.9.215.255	24	1963	TTNET TTnet Autonomous System	US	abuse@ttnet.net.tr
+202.70.136.0	202.70.136.255	24	1670	Quarry Bay, Hong Kong	HK	lleung@stt.com.hk
+188.130.251.0	188.130.251.255	24	1582			
+85.25.109.0	85.25.109.255	24	1089	INTERGENIA-ASN intergenia autonomous system	EU	abuse@plusserver.de
+168.63.98.0	168.63.98.255	24	1021	JAM	US	bmanning@karoshi.com
+115.239.248.0	115.239.248.255	24	646	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@mail.lsptt.zj.cn
+199.87.232.0	199.87.232.255	24	574			
+98.126.149.0	98.126.149.255	24	569	VPLSNET - VPLS Inc.	US	abuse@kryptservers.com
+69.175.54.0	69.175.54.255	24	528	PEER1 - Peer 1 Network Inc.	US	abuse@adelphia.net
+205.232.3.0	205.232.3.255	24	506	Nysernet/Broome Tioga BOCES (NET-SPRINT-CDE803)	US	sgallagh@btboces.stier.org
+217.218.119.0	217.218.119.255	24	330		IR	abuse@mail.dci.co.ir
+177.139.153.0	177.139.153.255	24	305			
+184.154.42.0	184.154.42.255	24	294	 SINGLEHOP-INC - SingleHop	US	abuse@singlehop.com
+#
+#
+#   RESERVED NETWORKS
+#
+# please see http://www.cymru.com/Documents/bogon-dd.html
+#
+#
+#
+# END
+#
+#  finished list generation: Sun Nov 25 01:41:39 2012 UTC
