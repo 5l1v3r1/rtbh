@@ -3,4 +3,5 @@ https://www.openbl.org/lists/base.txt
 http://www.dragonresearchgroup.org/insight/sshpwauth.txt
 http://www.spamhaus.org/drop/drop.lasso
 http://feeds.dshield.org/block.txt
-
+http://data.phishtank.com/data/online-valid.csv.bz2
+http://www.google.com/intl/en_ALL/ipv6/statistics/data/no_aaaa.txt

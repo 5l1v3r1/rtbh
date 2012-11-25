@@ -43,6 +43,11 @@ for my $url (keys %{$lists}){
 	    notify('info',  " retrieving filter from ${url}");
 	    print STDERR  `/usr/bin/fetch -T 10 -o ${outfile} ${url}`;
 	    my($logmsg) = "fetched version at " . time;
+	if ($outfile =~ /\.bz2$/){
+		print STDERR `/usr/bin/bunzip2 ${outfile}`;
+		print STDERR `/bin/rm ${outfile}`;
+		$outfile =~ s/\.bz2$//g;
+	}
 	    print STDERR `${git} diff ${outfile}`;
 	    print STDERR `${git} add ${outfile}`;
 	    print STDERR `${git} commit -m"${logmsg}" ${outfile}`;
