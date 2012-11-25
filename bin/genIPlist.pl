@@ -3,6 +3,10 @@
 use strict;
 local $| = 1;
 
+our $config;
+my($rtbh_home) = $ENV{'HOME'} . "/rtbh";
+require "${rtbh_home}/bin/common.pl";
+
 my(%ips);
 while(<>){
 	next if (/(^#)|(^\;)/);
@@ -41,13 +45,17 @@ while(<>){
 	$ip =~ s/\#.*$//g;
 	$ip =~ s/^\s+//g;
 	$ip =~ s/\s+$//g;
-	if ($ip =~ /\d+(\.\d+){3}\/\d+/){
+	if ($ip ne ""){
+	  if ($ip =~ /\d+(\.\d+){3}\/\d+/){
+	  } elsif ($ip !~ /\:/) {
+	    $ip .= "/32";
+	  }	
+	  $ips{$ip}++;
 	} else {
-		$ip .= "/32";
-	}	
-	$ips{$ip}++;
+	  notify('warning', "skipping IP:\"${ip}\"");
+	}
 }
 
 for my $i (sort keys %ips){
-	print $i . ": " . $ips{$i} . "\n";
+	print $i . "\n";
 }
