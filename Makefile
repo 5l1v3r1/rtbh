@@ -8,7 +8,7 @@ fetchBL:
 	${RTBH_HOME}/bin/fetchBlockLists.pl ${RTBH_HOME}/urls.txt
 
 genIPlist:
-	${RTBH_HOME}/bin/genIPlist.pl ${RTBH_HOME}/etc/* > ${RTBH_HOME}/blist
+	${RTBH_HOME}/bin/genIPlist.pl ${RTBH_HOME}/etc/ip/* > ${RTBH_HOME}/blist
 	${GIT} add ${RTBH_HOME}/blist
 	${GIT} diff ${RTBH_HOME}/blist
 	${GIT} commit -m "block list updated ${NOW}" ${RTBH_HOME}/blist
