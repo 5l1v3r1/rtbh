@@ -33,6 +33,6 @@ while(<>){
 # $_ is in golden list
 LLI
   } else {
-    print $_ . "\n";
+#    print $_ . "\n";
   }
 }
