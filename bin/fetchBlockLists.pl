@@ -48,14 +48,17 @@ for my $url (keys %{$lists}) {
   print STDERR  `/usr/bin/fetch -i ${outfile} -T 10 -o ${outfile} ${url}`;
   my($logmsg) = "fetched version at " . time;
 
+  my(@fileq);
   if ($outfile =~ /\.bz2$/) {
     my $uncompressed_outfile = $outfile;
     $uncompressed_outfile =~ s/\.bz2$//g;
-    print STDERR `/bin/rm ${uncompressed_outfile}`;
-    print STDERR `/usr/bin/bunzip2 ${outfile}`;
-    $outfile = $uncompressed_outfile;
+    print STDERR `/usr/bin/bunzip2 -qfk ${outfile}`;
+    push(@fileq, $uncompressed_outfile);
   }
-  print STDERR `${git} diff ${outfile}`;
-  print STDERR `${git} add ${outfile}`;
-  print STDERR `${git} commit -m"${logmsg}" ${outfile}`;
+  push(@fileq, $outfile);
+  for my $f (@fileq){
+    print STDERR `${git} add ${f}`;
+    print STDERR `${git} diff ${f}`;
+    print STDERR `${git} commit -m"${logmsg}" ${f}`;
+  }
 }
