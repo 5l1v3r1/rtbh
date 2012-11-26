@@ -13,15 +13,25 @@ my($lists);
 while(<>){
 	next if (/(^$)|(^#)/);
 	chomp;
-	my($blockUrl) = split;
-	$lists->{$blockUrl} = 1;
+	my($type, $blockUrl) = split;
+	$lists->{$blockUrl} = $type;
 }
 
 for my $url (keys %{$lists}){
 	my($outfile) = $url;
+	my($listType) = $lists->{$url};
 	$outfile =~ s/^\/etc\///;
 	$outfile =~ s/\//./g;
-	$outfile = ${rtbh_home} . "/etc/" . $outfile;
+	my($outdir) = ${rtbh_home} . "/etc/" . $listType;
+	if (! -d $outdir){
+	  notify("debug", "creating dir ${outdir}");
+	  print STDERR `/bin/mkdir -p ${outdir}`;
+	  if ($?){
+	    notify("err", "could not mkdir ${outdir}: ${?}");
+	    next;
+	  }
+	}
+	$outfile = $outdir . "/" . $outfile;
 	if (-r $outfile){
 		my($lastfetch) = getFileCreateTime($outfile);
 		my($ttl) = 300000;
@@ -35,7 +45,7 @@ for my $url (keys %{$lists}){
 		print STDERR `/usr/bin/touch ${outfile}`;
 	}
 	    notify('info',  " retrieving filter from ${url}");
-	    print STDERR  `/usr/bin/fetch -T 10 -o ${outfile} ${url}`;
+	    print STDERR  `/usr/bin/fetch -i ${outfile} -T 10 -o ${outfile} ${url}`;
 	    my($logmsg) = "fetched version at " . time;
 	if ($outfile =~ /\.bz2$/){
 		my $uncompressed_outfile = $outfile;
