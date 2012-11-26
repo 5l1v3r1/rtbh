@@ -1,17 +1,88 @@
 phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,target
+1624122,http://www.thegrillonthesquare.co.uk/language/es-ES/systemvodaupdate/login_index.html,http://www.phishtank.com/phish_detail.php?phish_id=1624122,2012-11-26T14:14:57+00:00,yes,2012-11-26T14:25:45+00:00,yes,Vodafone
+1624120,http://sistemafidelidade2012.com/cadastramento/vc3099123-2012/sistema-seguro.html,http://www.phishtank.com/phish_detail.php?phish_id=1624120,2012-11-26T14:12:02+00:00,yes,2012-11-26T14:25:14+00:00,yes,Cielo
+1624113,http://www.cordonneriedaujourdhui-evreux.com/components/com_media/recadastramento.php,http://www.phishtank.com/phish_detail.php?phish_id=1624113,2012-11-26T13:53:58+00:00,yes,2012-11-26T14:24:11+00:00,yes,"Banco De Brasil"
+1624112,http://65.60.51.66/~direcion/arqA/htmls/www.casasbahia.com.br/CentraldeAtendimento/atendimento.html,http://www.phishtank.com/phish_detail.php?phish_id=1624112,2012-11-26T13:50:17+00:00,yes,2012-11-26T14:15:28+00:00,yes,Other
+1624107,http://174.37.144.224/~credicon/includes/js/dtree/www.telstra.com.au/billing/action/payment/onlinepayment/update/onlinepayment.php,http://www.phishtank.com/phish_detail.php?phish_id=1624107,2012-11-26T13:38:33+00:00,yes,2012-11-26T14:06:24+00:00,yes,Other
+1624106,http://tempremios.bigteo.net/PROMOCAO/CADASTRO/CLIENTES/REGISTRO/CIELOBRASIL/ADMINISTRACAO/CDL/,http://www.phishtank.com/phish_detail.php?phish_id=1624106,2012-11-26T13:38:11+00:00,yes,2012-11-26T14:15:59+00:00,yes,Cielo
+1624105,http://tempremios2012.beepworld.it/files/cadastro.html,http://www.phishtank.com/phish_detail.php?phish_id=1624105,2012-11-26T13:37:54+00:00,yes,2012-11-26T14:15:59+00:00,yes,Cielo
+1624102,http://phics-it.co.uk/plugins/system/remember/sysvodaupda/login_index.html,http://www.phishtank.com/phish_detail.php?phish_id=1624102,2012-11-26T13:34:47+00:00,yes,2012-11-26T14:15:59+00:00,yes,Vodafone
+1624101,http://brogaardtraef.dk/templates/beez/xsonline.htm,http://www.phishtank.com/phish_detail.php?phish_id=1624101,2012-11-26T13:34:00+00:00,yes,2012-11-26T14:17:02+00:00,yes,Other
+1624100,http://cielocartoes.com/promocao/,http://www.phishtank.com/phish_detail.php?phish_id=1624100,2012-11-26T13:27:56+00:00,yes,2012-11-26T13:47:01+00:00,yes,Cielo
+1624099,http://cielocartoes.com/promocao,http://www.phishtank.com/phish_detail.php?phish_id=1624099,2012-11-26T13:27:55+00:00,yes,2012-11-26T13:46:01+00:00,yes,Cielo
+1624097,http://www.bimmer-deals.com/,http://www.phishtank.com/phish_detail.php?phish_id=1624097,2012-11-26T13:21:49+00:00,yes,2012-11-26T13:31:38+00:00,yes,Other
+1624096,http://www.kst365.com/js/?secure.runescape.com/m=weblogin/loginform.ws?mod=www&amp;bjurezwssl=0&amp;dest,http://www.phishtank.com/phish_detail.php?phish_id=1624096,2012-11-26T13:19:52+00:00,yes,2012-11-26T13:35:47+00:00,yes,RuneScape
+1624095,http://azhin.com/wp-content/languages/055/e78884b3bd8ee7bb4683b471f64f14d8/,http://www.phishtank.com/phish_detail.php?phish_id=1624095,2012-11-26T13:19:36+00:00,yes,2012-11-26T13:45:30+00:00,yes,Other
+1624094,http://azhin.com/wp-content/languages/055/,http://www.phishtank.com/phish_detail.php?phish_id=1624094,2012-11-26T13:19:35+00:00,yes,2012-11-26T13:51:33+00:00,yes,Other
+1624093,http://www.spg-pneus.com/skyfall/d4f311b0269cc100ba67c823e20fd65f/,http://www.phishtank.com/phish_detail.php?phish_id=1624093,2012-11-26T13:18:54+00:00,yes,2012-11-26T13:52:35+00:00,yes,Nets
+1624092,http://www.spg-pneus.com/skyfall/,http://www.phishtank.com/phish_detail.php?phish_id=1624092,2012-11-26T13:18:53+00:00,yes,2012-11-26T13:52:36+00:00,yes,Nets
+1624090,http://superpromocao.net78.net/explosaodepremiosonline/master/Visa/90%20dias/explosaodepremiosonline/,http://www.phishtank.com/phish_detail.php?phish_id=1624090,2012-11-26T13:17:10+00:00,yes,2012-11-26T13:46:01+00:00,yes,Mastercard
+1624091,http://superpromocao.net78.net/explosaodepremiosonline/master/Visa/90%20dias/explosaodepremiosonline/cadastro5.php?6L72C6FGSXHGY2H5R9Z8488893PKNYMSJTUVYABR9T97VPANY0U2H30P6Z0SXWLHQFDOQPGYIO5EDF2BPWD8ZNW5M7WJ4H2TXEIN4YLMNQ2273CVZQ4YD1317ZJAGL4EZL24KNQ8DR9KULFTCJSQJVQPUAZBV4PVPRZ0,http://www.phishtank.com/phish_detail.php?phish_id=1624091,2012-11-26T13:17:10+00:00,yes,2012-11-26T13:44:58+00:00,yes,Mastercard
+1624089,http://appletjam.com/wp-admin/update1.php,http://www.phishtank.com/phish_detail.php?phish_id=1624089,2012-11-26T13:16:58+00:00,yes,2012-11-26T13:35:48+00:00,yes,Facebook
+1624088,http://xn--80aalyski6a.org/images/index_hvoda_2611_10.html,http://www.phishtank.com/phish_detail.php?phish_id=1624088,2012-11-26T13:07:06+00:00,yes,2012-11-26T13:34:46+00:00,yes,Vodafone
+1624087,http://tinyurl.com/cmjl5ug,http://www.phishtank.com/phish_detail.php?phish_id=1624087,2012-11-26T13:07:04+00:00,yes,2012-11-26T13:35:48+00:00,yes,Vodafone
+1624086,http://cliente.fidelidade-cielo.kinghost.net,http://www.phishtank.com/phish_detail.php?phish_id=1624086,2012-11-26T12:56:03+00:00,yes,2012-11-26T13:29:06+00:00,yes,Cielo
+1624085,http://cliente.fidelidade-cielo.kinghost.net/cadastro.php,http://www.phishtank.com/phish_detail.php?phish_id=1624085,2012-11-26T12:55:28+00:00,yes,2012-11-26T13:35:48+00:00,yes,Cielo
+1624084,http://phics-it.co.uk/plugins/system/remember/sysvodaupdat/login_index.html,http://www.phishtank.com/phish_detail.php?phish_id=1624084,2012-11-26T12:54:56+00:00,yes,2012-11-26T13:35:48+00:00,yes,Vodafone
+1624083,http://allegrobezpiecznelogowanie.net16.net/allegro_wAJBQAHB1IAXlurl2YVQAAF0MUBUlwIAUFdeDgYBUlwIAUwAJBQAHB1IAXAAwAJBQAHB1IAXlurl=NNDc2YVQAAFUwAJBQAHB1session/sursa.html,http://www.phishtank.com/phish_detail.php?phish_id=1624083,2012-11-26T12:53:40+00:00,yes,2012-11-26T13:02:03+00:00,yes,Other
+1624082,http://stylecruises.co.uk/view/wp-content/plugins/inde.html,http://www.phishtank.com/phish_detail.php?phish_id=1624082,2012-11-26T12:46:19+00:00,yes,2012-11-26T13:35:48+00:00,yes,"NatWest Bank"
+1624081,http://www.logoin3d.com.br//wp-content/themes/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1624081,2012-11-26T12:45:36+00:00,yes,2012-11-26T13:35:48+00:00,yes,"NatWest Bank"
+1624080,http://www.kst365.com/js/?bjurezwssl=0&amp;dest&amp;secure.runescape.com/m=weblogin/loginform.ws?mod=www,http://www.phishtank.com/phish_detail.php?phish_id=1624080,2012-11-26T12:36:16+00:00,yes,2012-11-26T13:35:49+00:00,yes,RuneScape
+1624079,http://www.efrem.gr/out/news/nbhyavwc/bhbaa/384d84d858439384d84d85353844d853535353843ae3ae091d0d3faee8d938/tgpoa.htm?98939467a19817b57d92ea32f558227f98939467a19817b57d92ea32f558227f,http://www.phishtank.com/phish_detail.php?phish_id=1624079,2012-11-26T12:26:44+00:00,yes,2012-11-26T13:35:50+00:00,yes,Other
+1624076,http://decembergephart.com/wp-wl/,http://www.phishtank.com/phish_detail.php?phish_id=1624076,2012-11-26T12:26:22+00:00,yes,2012-11-26T13:36:52+00:00,yes,Other
+1624075,http://facebook.com.accounts.login.userid55493d5ds52.fs32.info/fb/fbn/?next=http%3A%2F%2Fwww.facebook.com%2videos%2F%3AJ%4ID%1A#,http://www.phishtank.com/phish_detail.php?phish_id=1624075,2012-11-26T12:26:19+00:00,yes,2012-11-26T13:33:09+00:00,yes,Facebook
+1624074,http://www.kst365.com/js/?dest&amp;secure.runescape.com/m=weblogin/loginform.ws?mod=www&amp;jxgtnjkssl=0,http://www.phishtank.com/phish_detail.php?phish_id=1624074,2012-11-26T12:24:11+00:00,yes,2012-11-26T13:31:38+00:00,yes,RuneScape
+1624070,http://www.neliayruben.com/sssaafety/safety/safety/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1624070,2012-11-26T12:14:24+00:00,yes,2012-11-26T13:32:38+00:00,yes,"ABSA Bank"
+1624069,http://phics-it.co.uk/plugins/system/remember/sysvodaupdate/login_index.html,http://www.phishtank.com/phish_detail.php?phish_id=1624069,2012-11-26T12:12:57+00:00,yes,2012-11-26T13:36:52+00:00,yes,Vodafone
+1624068,http://www.kst365.com/js/?jxgtnjkssl=0&amp;mod=www,http://www.phishtank.com/phish_detail.php?phish_id=1624068,2012-11-26T12:10:14+00:00,yes,2012-11-26T13:29:37+00:00,yes,RuneScape
+1624067,http://www.kst365.com/js/?secure.runescape.com/m=weblogin/loginform.ws?mod=www&amp;jxgtnjkssl=0&amp;dest,http://www.phishtank.com/phish_detail.php?phish_id=1624067,2012-11-26T12:00:46+00:00,yes,2012-11-26T13:35:17+00:00,yes,RuneScape
 1624066,http://otomoto.cz.bimmer-deals.com/,http://www.phishtank.com/phish_detail.php?phish_id=1624066,2012-11-26T11:59:27+00:00,yes,2012-11-26T12:15:57+00:00,yes,Other
+1624065,http://www.gxyzx.com/js/?us.battle.net/login/en/?ref=http://pjwjscous.battle.net/d3/en/index&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1624065,2012-11-26T11:54:18+00:00,yes,2012-11-26T13:35:17+00:00,yes,Blizzard
+1624064,http://www.nu.kiev.ua/tools/calendar/themes/forest/tesco/login.auth.scc.html,http://www.phishtank.com/phish_detail.php?phish_id=1624064,2012-11-26T11:43:18+00:00,yes,2012-11-26T13:36:52+00:00,yes,Other
+1624063,http://ut63899.0adz.com/feedback/feedback.html,http://www.phishtank.com/phish_detail.php?phish_id=1624063,2012-11-26T11:40:22+00:00,yes,2012-11-26T13:13:42+00:00,yes,Other
+1624058,http://modernfoods.com.cn/js/?https://secure.runescape.com/m=weblogin/loginform.ws?mod=www&amp;kzutxlzamp;ssl=0&amp;dest,http://www.phishtank.com/phish_detail.php?phish_id=1624058,2012-11-26T11:36:09+00:00,yes,2012-11-26T13:37:23+00:00,yes,Other
+1624057,http://modernfoods.com.cn/js/?https://secure.runescape.com/m=weblogin/loginform.ws?mod=www&amp;fyfevszamp;ssl=0&amp;dest,http://www.phishtank.com/phish_detail.php?phish_id=1624057,2012-11-26T11:35:51+00:00,yes,2012-11-26T13:44:59+00:00,yes,Other
+1624055,http://www.refriautoartiles.com/administrator/manifests/packages/cadastro/cadastromastercardevisa/cadastro.php?QM6WFZJ8CUYQR02D5478FSNIEQASRN7I0CEOBYVOTUEK4GX9J4GZW5HBUS4LF04OMIDXH0LA41V8HSG2WW1T1I6VB9HQILF64S3L3OV7PQD7JU8GQ9ARRFN3O5T8P9CT2FE44AAS2OZKI820FB18RO0GS3NIB1CCFQGJ,http://www.phishtank.com/phish_detail.php?phish_id=1624055,2012-11-26T11:35:34+00:00,yes,2012-11-26T13:48:32+00:00,yes,Other
+1624054,http://promo.strangled.net/cad1/,http://www.phishtank.com/phish_detail.php?phish_id=1624054,2012-11-26T11:29:55+00:00,yes,2012-11-26T13:24:28+00:00,yes,Cielo
+1624053,http://www.veloxsmtp.com.br/londres/link.php?M=318919&amp;N=5&amp;L=4&amp;F=H,http://www.phishtank.com/phish_detail.php?phish_id=1624053,2012-11-26T11:28:14+00:00,yes,2012-11-26T13:46:01+00:00,yes,Mastercard
+1624052,http://restomaison.net/acesso/itau/?itaubankline/cliente-itau-bankline/itau,http://www.phishtank.com/phish_detail.php?phish_id=1624052,2012-11-26T11:25:33+00:00,yes,2012-11-26T13:25:33+00:00,yes,Itau
+1624050,http://hipercard.servehttp.com/,http://www.phishtank.com/phish_detail.php?phish_id=1624050,2012-11-26T11:20:20+00:00,yes,2012-11-26T13:45:30+00:00,yes,Itau
+1624048,http://sslsecures.com/,http://www.phishtank.com/phish_detail.php?phish_id=1624048,2012-11-26T11:17:10+00:00,yes,2012-11-26T13:50:03+00:00,yes,Other
+1624046,http://www.envirocruit.com/betale%20din%20regning/Sikker%20nettbetaling.htm,http://www.phishtank.com/phish_detail.php?phish_id=1624046,2012-11-26T10:49:27+00:00,yes,2012-11-26T13:18:47+00:00,yes,Other
+1624045,http://my.greatty.com/wp-includes/pomo/tjeneste/Secure.htm,http://www.phishtank.com/phish_detail.php?phish_id=1624045,2012-11-26T10:49:09+00:00,yes,2012-11-26T13:18:47+00:00,yes,Nets
+1624044,http://hazelproduction.com/sikkerhed-tdc/Sikker%20nettbetaling.htm,http://www.phishtank.com/phish_detail.php?phish_id=1624044,2012-11-26T10:48:48+00:00,yes,2012-11-26T13:18:47+00:00,yes,Other
+1624042,http://www.spg-pneus.com/skyfall/280ae8fd9fa10a373325487622d9a089/validation.html?g4d3bdOsiuarHDdBl0bEP6dBVy_wP1WJ6XZDh7nemRp9bv2mHJ0HYZaZV6xWExsS,http://www.phishtank.com/phish_detail.php?phish_id=1624042,2012-11-26T10:46:49+00:00,yes,2012-11-26T13:18:47+00:00,yes,Nets
+1624041,http://azhin.com/wp-content/languages/055/8cb8087f9f5f064a9327f3f5496a484c/,http://www.phishtank.com/phish_detail.php?phish_id=1624041,2012-11-26T10:46:26+00:00,yes,2012-11-26T13:19:18+00:00,yes,Visa
+1624040,http://www.biobedchile.org/wp-content/Fds/kort/10af659d79e1e34f2abdc5b082446ea0/,http://www.phishtank.com/phish_detail.php?phish_id=1624040,2012-11-26T10:45:46+00:00,yes,2012-11-26T13:42:58+00:00,yes,Nets
+1624038,http://www.33neyahoo.info/page/vote.php?pid=51,http://www.phishtank.com/phish_detail.php?phish_id=1624038,2012-11-26T10:33:51+00:00,yes,2012-11-26T13:28:06+00:00,yes,Other
+1624037,http://www.acqi.info/page/index.php,http://www.phishtank.com/phish_detail.php?phish_id=1624037,2012-11-26T10:33:45+00:00,yes,2012-11-26T14:17:36+00:00,yes,Other
+1624036,http://www.acqi.info,http://www.phishtank.com/phish_detail.php?phish_id=1624036,2012-11-26T10:33:43+00:00,yes,2012-11-26T14:17:36+00:00,yes,Other
+1624033,http://us.battle.net.login.en.tu-login.com/login/en/login.html?app=bam&amp;app=wam&amp;eor=0&amp;ref=www.worldofwarcraft.com/account,http://www.phishtank.com/phish_detail.php?phish_id=1624033,2012-11-26T10:13:15+00:00,yes,2012-11-26T13:21:20+00:00,yes,Blizzard
+1624032,http://www.plotsnhouses.com/tordairec.php,http://www.phishtank.com/phish_detail.php?phish_id=1624032,2012-11-26T10:11:52+00:00,yes,2012-11-26T13:29:37+00:00,yes,Vodafone
+1624030,http://www.hsbhk-eservices.com,http://www.phishtank.com/phish_detail.php?phish_id=1624030,2012-11-26T10:07:57+00:00,yes,2012-11-26T13:29:37+00:00,yes,"HSBC Group"
+1624029,http://www.acewellpc.com/images/?app=com-d3&amp;us.battle.net/login/en/?ref=http://igperljus.battle.net/d3/en/index,http://www.phishtank.com/phish_detail.php?phish_id=1624029,2012-11-26T10:04:45+00:00,yes,2012-11-26T13:22:54+00:00,yes,Blizzard
+1624028,http://www.acewellpc.com/images/?ref=http://igperljus.battle.net/d3/en/index,http://www.phishtank.com/phish_detail.php?phish_id=1624028,2012-11-26T09:59:25+00:00,yes,2012-11-26T13:22:57+00:00,yes,Blizzard
+1624027,http://www.ek63.cn/js/?app=com-d3&amp;ref=http://us.battle.net/d3/en/index,http://www.phishtank.com/phish_detail.php?phish_id=1624027,2012-11-26T09:54:30+00:00,yes,2012-11-26T13:22:57+00:00,yes,Blizzard
 1624026,http://www.gxyzx.com/js/?us.battle.net/login/en/?ref=http://eqrwpzwus.battle.net/d3/en/index&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1624026,2012-11-26T09:49:03+00:00,yes,2012-11-26T11:44:13+00:00,yes,Blizzard
+1624025,http://caminhosdosertao.com.br/acolhida/getproductrequest.htm,http://www.phishtank.com/phish_detail.php?phish_id=1624025,2012-11-26T09:48:07+00:00,yes,2012-11-26T13:22:57+00:00,yes,Other
+1624024,http://www.gxyzx.com/js/?us.battle.net/login/en/?ref=http://gyjvsbrus.battle.net/d3/en/index&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1624024,2012-11-26T09:41:50+00:00,yes,2012-11-26T13:22:58+00:00,yes,Blizzard
+1624023,http://www.gxyzx.com/js/?us.battle.net/login/en/?ref=http://bxgtcdxus.battle.net/d3/en/index&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1624023,2012-11-26T09:36:30+00:00,yes,2012-11-26T13:23:28+00:00,yes,Blizzard
 1624022,http://lgjyxx.com/js/?us.battle.net/login/en/?ref=http://higvuidus.battle.net/d3/en/index&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1624022,2012-11-26T09:28:53+00:00,yes,2012-11-26T11:43:43+00:00,yes,Blizzard
+1624020,http://locationveri.administreert.com/homepageoud/show/pagina.php?paginaid=303385,http://www.phishtank.com/phish_detail.php?phish_id=1624020,2012-11-26T09:26:05+00:00,yes,2012-11-26T13:51:03+00:00,yes,Other
 1624019,http://www.cqpszx.com/images/?app=com-d3&amp;ref=http://holghtbus.battle.net/d3/en/index,http://www.phishtank.com/phish_detail.php?phish_id=1624019,2012-11-26T09:20:32+00:00,yes,2012-11-26T12:49:59+00:00,yes,Blizzard
+1624018,http://on-skat-dk.com/verifikation/penge/ID/457143298536232853/,http://www.phishtank.com/phish_detail.php?phish_id=1624018,2012-11-26T09:16:34+00:00,yes,2012-11-26T13:23:58+00:00,yes,Other
 1624017,http://loanproz.net/postale/postinfo.htm,http://www.phishtank.com/phish_detail.php?phish_id=1624017,2012-11-26T09:16:10+00:00,yes,2012-11-26T11:41:40+00:00,yes,PayPal
 1624016,http://lgjyxx.com/js/?app=com-d3&amp;us.battle.net/login/en/?ref=http://higvuidus.battle.net/d3/en/index,http://www.phishtank.com/phish_detail.php?phish_id=1624016,2012-11-26T09:13:55+00:00,yes,2012-11-26T10:57:34+00:00,yes,Blizzard
 1624015,http://lgjyxx.com/js/?ref=http://higvuidus.battle.net/d3/en/index,http://www.phishtank.com/phish_detail.php?phish_id=1624015,2012-11-26T09:07:30+00:00,yes,2012-11-26T09:47:53+00:00,yes,Blizzard
 1624013,http://www.xsxzjzx.com/images/?dest&amp;secure.runescape.com/m=weblogin/loginform.ws?mod=www&amp;ulxhiabssl=0,http://www.phishtank.com/phish_detail.php?phish_id=1624013,2012-11-26T08:57:52+00:00,yes,2012-11-26T11:35:31+00:00,yes,RuneScape
 1624012,http://www.misma.com.br/2010/cache/,http://www.phishtank.com/phish_detail.php?phish_id=1624012,2012-11-26T08:52:08+00:00,yes,2012-11-26T11:41:41+00:00,yes,Other
 1624010,http://www.xsxzjzx.com/images/?ulxhiabssl=0&amp;mod=www,http://www.phishtank.com/phish_detail.php?phish_id=1624010,2012-11-26T08:51:46+00:00,yes,2012-11-26T11:45:14+00:00,yes,RuneScape
+1624006,http://finchtangible.com/0ut2fq583184-9203774cygp/--OANAOT---5184284-0l1n/---145690---5412798-7wb6/786926/242956/1000-020-NEW-13/1000/your.html,http://www.phishtank.com/phish_detail.php?phish_id=1624006,2012-11-26T08:49:57+00:00,yes,2012-11-26T13:31:08+00:00,yes,Other
 1624005,http://www.youyoupzh.com/images/?app=com-d3&amp;us.battle.net/login/en/?ref=us.battle.net/d3/en/index,http://www.phishtank.com/phish_detail.php?phish_id=1624005,2012-11-26T08:45:05+00:00,yes,2012-11-26T09:49:25+00:00,yes,Blizzard
 1624003,http://woodmaster.pk/language/,http://www.phishtank.com/phish_detail.php?phish_id=1624003,2012-11-26T08:43:37+00:00,yes,2012-11-26T11:38:35+00:00,yes,Other
+1624002,http://woodmaster.pk/language,http://www.phishtank.com/phish_detail.php?phish_id=1624002,2012-11-26T08:43:36+00:00,yes,2012-11-26T13:29:37+00:00,yes,Other
 1624001,http://www.zgytgc.cn/images/?mod=www&amp;ssl=0,http://www.phishtank.com/phish_detail.php?phish_id=1624001,2012-11-26T08:42:13+00:00,yes,2012-11-26T11:44:13+00:00,yes,RuneScape
+1624000,http://77.36.227.135/IBSng/isp_styles/0/wp-admin.php,http://www.phishtank.com/phish_detail.php?phish_id=1624000,2012-11-26T08:41:21+00:00,yes,2012-11-26T13:29:37+00:00,yes,"Barclays Bank PLC"
 1623999,http://x0shop.com/images/?us.battle.net/login/en/?ref=npnpevaus.battle.net/d3/en/index&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1623999,2012-11-26T08:36:37+00:00,yes,2012-11-26T09:23:28+00:00,yes,Blizzard
 1623998,http://www.580clean.com/images/,http://www.phishtank.com/phish_detail.php?phish_id=1623998,2012-11-26T08:31:47+00:00,yes,2012-11-26T09:14:23+00:00,yes,Blizzard
 1623997,http://www.580clean.com/images,http://www.phishtank.com/phish_detail.php?phish_id=1623997,2012-11-26T08:31:45+00:00,yes,2012-11-26T09:22:28+00:00,yes,Blizzard
@@ -25,7 +96,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1623986,http://sunvalleybarandgrill.com/files/9512/Log-ind.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623986,2012-11-26T07:59:32+00:00,yes,2012-11-26T09:51:27+00:00,yes,Other
 1623985,http://shaner.3eeweb.com/pay_form_ec_cvv2.html,http://www.phishtank.com/phish_detail.php?phish_id=1623985,2012-11-26T07:38:50+00:00,yes,2012-11-26T09:48:24+00:00,yes,Other
 1623984,http://users2.jabry.com/welcosu/Pay_Form_Ec_Cvv2.html,http://www.phishtank.com/phish_detail.php?phish_id=1623984,2012-11-26T07:36:24+00:00,yes,2012-11-26T09:48:54+00:00,yes,Other
-1623983,http://horrikaza.mywebcommunity.org/pay_form_ec_cvv2.html,http://www.phishtank.com/phish_detail.php?phish_id=1623983,2012-11-26T07:32:41+00:00,yes,2012-11-26T09:50:56+00:00,yes,Other
 1623982,http://www.impera-advisory.com/wp-content/HongLeongsecure/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623982,2012-11-26T06:59:50+00:00,yes,2012-11-26T09:22:28+00:00,yes,Other
 1623981,http://kansas-city.besaba.com/card.php,http://www.phishtank.com/phish_detail.php?phish_id=1623981,2012-11-26T06:16:34+00:00,yes,2012-11-26T09:52:30+00:00,yes,Other
 1623980,http://pokerface.ucoz.co.uk/card.html,http://www.phishtank.com/phish_detail.php?phish_id=1623980,2012-11-26T06:16:28+00:00,yes,2012-11-26T09:51:57+00:00,yes,Other
@@ -37,13 +107,13 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1623974,http://pokerface.ucoz.co.uk/question.html,http://www.phishtank.com/phish_detail.php?phish_id=1623974,2012-11-26T06:15:53+00:00,yes,2012-11-26T09:47:53+00:00,yes,Other
 1623973,http://kansas-city.besaba.com/logs.php,http://www.phishtank.com/phish_detail.php?phish_id=1623973,2012-11-26T06:15:21+00:00,yes,2012-11-26T09:49:55+00:00,yes,Other
 1623972,http://nucell-therapy.com/wp-includes/images/vodafone.co.uk/,http://www.phishtank.com/phish_detail.php?phish_id=1623972,2012-11-26T05:36:40+00:00,yes,2012-11-26T07:12:45+00:00,yes,Vodafone
+1623971,http://www.jeyansu.com/images/stories/Cadastro.php,http://www.phishtank.com/phish_detail.php?phish_id=1623971,2012-11-26T05:25:29+00:00,yes,2012-11-26T13:39:25+00:00,yes,Cielo
 1623969,http://vyce.com.mx/modules/mod_feed/vodafone.co.uk/,http://www.phishtank.com/phish_detail.php?phish_id=1623969,2012-11-26T05:03:13+00:00,yes,2012-11-26T09:39:36+00:00,yes,Vodafone
-1623968,http://gabrielalmeida.com.mx/wp-includes/js/jquery/forms.asp.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623968,2012-11-26T04:59:13+00:00,yes,2012-11-26T09:39:06+00:00,yes,Vodafone
 1623967,http://vyce.com.mx/images/M_images/vodafone.co.uk/,http://www.phishtank.com/phish_detail.php?phish_id=1623967,2012-11-26T04:53:15+00:00,yes,2012-11-26T09:39:06+00:00,yes,Vodafone
+1623963,http://gmailattnet.com/0/100_1353851119102606007/6?c=http%3A****images.gmailattnet.com**2036090**vuxv%7E5txu_tlllt6url_ult3umtfu_tx_tqyrnozvoxpvrp0qqmwrqsswmpozyztdyumoqo_tqmo**r_ttceurt7unnl_m_uptdfw3yu_7_e_vh_ik_zk_8_e_7p_8_e_zi_7_e5i_7_y_3n_7_y_jh_7**_yxutyxumptxveursrte3ult0x0ut0xut7eum_tty1umtf1um_tlt2utezdeuteutyutw2utv3u**tvaut0u_y3dvw363ej_x6v37_2z6aty8uv96_ox97tdy97utd3aut09ultcdautd3unp_tom_utw3u,http://www.phishtank.com/phish_detail.php?phish_id=1623963,2012-11-26T04:08:55+00:00,yes,2012-11-26T13:47:32+00:00,yes,Other
 1623962,http://www.dengepnomatik.com.tr/wp-content/plugins/support/yahoo.com.html,http://www.phishtank.com/phish_detail.php?phish_id=1623962,2012-11-26T04:04:03+00:00,yes,2012-11-26T07:59:14+00:00,yes,Yahoo
 1623961,http://laneboldman.com/nab/,http://www.phishtank.com/phish_detail.php?phish_id=1623961,2012-11-26T04:02:43+00:00,yes,2012-11-26T07:24:28+00:00,yes,"National Australia Bank"
 1623960,http://l2whispering.com/o2account/O2Network_Security.html,http://www.phishtank.com/phish_detail.php?phish_id=1623960,2012-11-26T03:33:17+00:00,yes,2012-11-26T08:07:21+00:00,yes,Other
-1623959,http://www.atualizacaoobrigatoria.org/desco/,http://www.phishtank.com/phish_detail.php?phish_id=1623959,2012-11-26T02:55:13+00:00,yes,2012-11-26T07:24:28+00:00,yes,Bradesco
 1623956,http://pokerface.ucoz.co.uk/login.html,http://www.phishtank.com/phish_detail.php?phish_id=1623956,2012-11-26T01:14:44+00:00,yes,2012-11-26T06:15:20+00:00,yes,Facebook
 1623955,http://help-user-bloking-center.tk/,http://www.phishtank.com/phish_detail.php?phish_id=1623955,2012-11-26T01:13:57+00:00,yes,2012-11-26T07:14:16+00:00,yes,Facebook
 1623953,http://confirm-id-help.ucoz.com/fb/card.html,http://www.phishtank.com/phish_detail.php?phish_id=1623953,2012-11-26T01:04:46+00:00,yes,2012-11-26T07:15:47+00:00,yes,Facebook
@@ -54,7 +124,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1623948,http://help-protec-use.moy.su/account/confirmm.html,http://www.phishtank.com/phish_detail.php?phish_id=1623948,2012-11-26T00:53:23+00:00,yes,2012-11-26T03:06:14+00:00,yes,Facebook
 1623947,http://id-security-facebook-account-user.tk/,http://www.phishtank.com/phish_detail.php?phish_id=1623947,2012-11-26T00:52:31+00:00,yes,2012-11-26T03:44:00+00:00,yes,Facebook
 1623946,http://illaria.ua/photo/content/administrator_restore.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623946,2012-11-26T00:52:09+00:00,yes,2012-11-26T08:06:51+00:00,yes,Other
-1623945,http://donxionsllc.org/w03/index.html?,http://www.phishtank.com/phish_detail.php?phish_id=1623945,2012-11-26T00:41:23+00:00,yes,2012-11-26T08:00:17+00:00,yes,Other
 1623944,http://www.zaferkargo.com/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1623944,2012-11-26T00:40:06+00:00,yes,2012-11-26T09:05:47+00:00,yes,Other
 1623942,http://www.ysgrp.com.cn/js/?ref=http%3A%2F%2Fus.battle.net%2Fd3%2Fen%2Findex,http://www.phishtank.com/phish_detail.php?phish_id=1623942,2012-11-26T00:29:45+00:00,yes,2012-11-26T03:06:44+00:00,yes,Other
 1623941,http://www.kf25zx.com/images/?http://us.battle.net/login/en/?ref=http%3A%2F%2Fxcqdlhtus.battle.net%2Fd3%2Fen%2Findex&amp;amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1623941,2012-11-26T00:29:38+00:00,yes,2012-11-26T02:56:40+00:00,yes,Other
@@ -80,13 +149,11 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1623898,http://icsc-iq.com/site/StGonline/stgeorge.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623898,2012-11-25T20:40:50+00:00,yes,2012-11-25T23:24:59+00:00,yes,"St George Bank"
 1623897,http://www.omartravel.com.ua//wp-includes/Text/loginpage.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623897,2012-11-25T20:40:26+00:00,yes,2012-11-26T07:09:42+00:00,yes,"St George Bank"
 1623895,http://www.forestalmaihue.cl/wp-admin/user/WWW.WESTPAC.COM.AU/online.westpac.com.au/esis/Login/SrvPage/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1623895,2012-11-25T20:39:28+00:00,yes,2012-11-25T23:23:59+00:00,yes,Westpac
-1623894,http://pinkrose.ks-dept.jp/htmlarea/popups/stgeorge/stgeorge/stgeorge/stgeorge/stgeorge/stgeorge/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623894,2012-11-25T20:38:45+00:00,yes,2012-11-25T23:25:30+00:00,yes,"St George Bank"
 1623893,http://allhomebuyer.com/js/https/online.westpac.com.au/esis/SrvPage.html,http://www.phishtank.com/phish_detail.php?phish_id=1623893,2012-11-25T20:37:58+00:00,yes,2012-11-25T23:25:30+00:00,yes,Westpac
 1623892,http://icomtec.com.my/westpac.au/login.westpac.au/update.billing/information/westpac.au/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1623892,2012-11-25T20:37:32+00:00,yes,2012-11-25T23:23:59+00:00,yes,Westpac
 1623891,http://kennedybia.com/directory/scripts/Westpac/SrvPage.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623891,2012-11-25T20:36:31+00:00,yes,2012-11-25T23:23:29+00:00,yes,Westpac
 1623890,http://www.istiwebdesigner.hu/wp-content/gallery/kepgaleriam/Logon.html,http://www.phishtank.com/phish_detail.php?phish_id=1623890,2012-11-25T20:36:04+00:00,yes,2012-11-25T23:24:29+00:00,yes,"St George Bank"
 1623889,http://punjabiinterpreter.com.au/wp-content/themes/twentyeleven/inc/welcome.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623889,2012-11-25T20:35:24+00:00,yes,2012-11-25T23:26:33+00:00,yes,"St George Bank"
-1623883,http://www.ingrid-filipczyk.de/xinha/plugins/ImageManager,http://www.phishtank.com/phish_detail.php?phish_id=1623883,2012-11-25T18:19:03+00:00,yes,2012-11-25T20:04:02+00:00,yes,Nets
 1623882,http://zywalls.co.uk/pictures/originals/service-JUGT9.pbs.KJGH8KJ.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623882,2012-11-25T18:18:54+00:00,yes,2012-11-25T20:04:33+00:00,yes,Nets
 1623880,http://rs.wwus.asia/m=weblogin/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623880,2012-11-25T17:35:48+00:00,yes,2012-11-25T18:21:19+00:00,yes,RuneScape
 1623879,http://wow.wwus.asia/login/en/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623879,2012-11-25T17:35:18+00:00,yes,2012-11-25T18:20:19+00:00,yes,Blizzard
@@ -150,7 +217,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1623807,http://www.biobedchile.org/wp-admin/Prive.php,http://www.phishtank.com/phish_detail.php?phish_id=1623807,2012-11-25T11:54:12+00:00,yes,2012-11-25T14:55:17+00:00,yes,Nets
 1623806,http://www.biobedchile.org/wp-content/Fds/kort/a4a1afce3725c21eecfbbed1d9383ff4/,http://www.phishtank.com/phish_detail.php?phish_id=1623806,2012-11-25T11:54:03+00:00,yes,2012-11-25T14:55:17+00:00,yes,Nets
 1623805,http://aprovechar.nl/reverse.php,http://www.phishtank.com/phish_detail.php?phish_id=1623805,2012-11-25T11:53:10+00:00,yes,2012-11-25T14:15:01+00:00,yes,Nets
-1623804,http://aprovechar.nl/din/https:www.nets.eu-opdatere-din-konto-update-for-your-account-00496KO50A05O3/cm-84.209.66.194.getinternet.no/,http://www.phishtank.com/phish_detail.php?phish_id=1623804,2012-11-25T11:53:01+00:00,yes,2012-11-25T14:55:48+00:00,yes,Nets
 1623803,http://www.yuishinkai.se/,http://www.phishtank.com/phish_detail.php?phish_id=1623803,2012-11-25T11:52:05+00:00,yes,2012-11-25T14:55:48+00:00,yes,Nets
 1623802,http://www.spg-pneus.com/skyfall/f484b9d2bfcf53122cd2fa101a235308/validation.html?g4d3bdOsiuarHDdBl0bEP6dBVy_wP1WJ6XZDh7nemRp9bv2mHJ0HYZaZV6xWExsS,http://www.phishtank.com/phish_detail.php?phish_id=1623802,2012-11-25T11:51:57+00:00,yes,2012-11-25T14:33:39+00:00,yes,Nets
 1623801,http://www.gershanova.ru/offline.php,http://www.phishtank.com/phish_detail.php?phish_id=1623801,2012-11-25T11:51:01+00:00,yes,2012-11-25T14:09:11+00:00,yes,Nets
@@ -203,7 +269,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1623740,http://inetquest.com/images/properties/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623740,2012-11-25T08:55:43+00:00,yes,2012-11-25T11:13:01+00:00,yes,Other
 1623739,http://hilarious.tv.tripod.com/webonmediacontents/facebook.html,http://www.phishtank.com/phish_detail.php?phish_id=1623739,2012-11-25T08:55:00+00:00,yes,2012-11-25T10:08:31+00:00,yes,Other
 1623738,http://hemera.tiiel.ru/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1623738,2012-11-25T08:53:55+00:00,yes,2012-11-25T11:06:45+00:00,yes,Other
-1623736,http://hektorsport.home.pl/error_pages,http://www.phishtank.com/phish_detail.php?phish_id=1623736,2012-11-25T08:52:38+00:00,yes,2012-11-25T11:29:27+00:00,yes,Other
 1623733,http://greentechenterprises.org/8secure/security/confirmation/accountonlinesecure/update/accountonline/valide/security/levelmaxecure/uk_gb/cycgi-bin/confirmation/sebsecureaccountonlinenow/secure-code5/security/,http://www.phishtank.com/phish_detail.php?phish_id=1623733,2012-11-25T08:50:07+00:00,yes,2012-11-25T10:49:35+00:00,yes,Other
 1623732,http://funpagez.com/green.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623732,2012-11-25T08:48:45+00:00,yes,2012-11-25T11:23:17+00:00,yes,Other
 1623731,http://freeregister7.blogspot.de/,http://www.phishtank.com/phish_detail.php?phish_id=1623731,2012-11-25T08:48:05+00:00,yes,2012-11-25T10:21:42+00:00,yes,Other
@@ -232,7 +297,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1623700,http://www.acewellpc.com/images/?http://us.battle.net/login/en/?ref=http%3A%2F%2Figperljus.battle.net%2Fd3%2Fen%2Findex&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1623700,2012-11-25T04:28:19+00:00,yes,2012-11-26T07:23:58+00:00,yes,Other
 1623696,http://copadomundofaturazero.dyndns-web.com/www.faturazerocopadomundocadastramento.com.br/copa-18/,http://www.phishtank.com/phish_detail.php?phish_id=1623696,2012-11-25T04:08:35+00:00,yes,2012-11-25T08:29:22+00:00,yes,Cielo
 1623687,http://copadomundofaturazero.dyndns-web.com/www.faturazerocopadomundocadastramento.com.br/copa-9/,http://www.phishtank.com/phish_detail.php?phish_id=1623687,2012-11-25T04:03:11+00:00,yes,2012-11-25T09:09:54+00:00,yes,Cielo
-1623681,http://copadomundofaturazero.dyndns-web.com/www.faturazerocopadomundocadastramento.com.br/copa-4/,http://www.phishtank.com/phish_detail.php?phish_id=1623681,2012-11-25T03:59:28+00:00,yes,2012-11-25T08:29:53+00:00,yes,Cielo
 1623655,http://skaterock.com.br/leandro/caurina/aol.com.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623655,2012-11-25T00:28:00+00:00,yes,2012-11-25T08:05:40+00:00,yes,Other
 1623653,http://jjlzfd.com/Images/?http://us.battle.net/login/en/?ref=http%3A%2F%2Fsvfthlwus.battle.net%2Fd3%2Fen%2Findex&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1623653,2012-11-25T00:27:42+00:00,yes,2012-11-25T08:05:06+00:00,yes,Other
 1623652,http://lgjyxx.com/JS/?http://us.battle.net/login/en/?ref=http%3A%2F%2Fhigvuidus.battle.net%2Fd3%2Fen%2Findex&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1623652,2012-11-25T00:21:17+00:00,yes,2012-11-25T08:04:01+00:00,yes,Blizzard
@@ -297,7 +361,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1623536,http://personal.co-operativebank.co.uk.wxtoplks2012uhjkbbgotoriverified22oplrxuvrasjktvwlplrafgoplc.cetraining.com.au,http://www.phishtank.com/phish_detail.php?phish_id=1623536,2012-11-24T13:36:23+00:00,yes,2012-11-24T15:08:21+00:00,yes,"Co-operative Bank"
 1623532,http://62.193.216.26/~philip/build/79140,http://www.phishtank.com/phish_detail.php?phish_id=1623532,2012-11-24T13:31:30+00:00,yes,2012-11-24T16:07:59+00:00,yes,Other
 1623530,http://mslcilindros.cl/planos/_vti_cnf/wp-xc/4/stgeorge%20modified/stgeorge%20modified/stgeorge.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623530,2012-11-24T13:31:15+00:00,yes,2012-11-24T21:54:26+00:00,yes,Other
-1623528,http://dentalmovies.com/english/wp-content//plugins/slider-pro/includes/timthumb/cache/SignIneByISAPdll438jhbhyerwww0moto443h3.htm,http://www.phishtank.com/phish_detail.php?phish_id=1623528,2012-11-24T13:31:02+00:00,yes,2012-11-24T15:09:56+00:00,yes,Other
 1623527,http://susannahbothephoto.com/wordpress/wp-content/themes/dandelion_v2.6.1/functions/cache/x.php,http://www.phishtank.com/phish_detail.php?phish_id=1623527,2012-11-24T13:30:59+00:00,yes,2012-11-24T16:01:56+00:00,yes,Other
 1623516,http://www.viverelagheula.net/wp-content/plugins/akismet/paypal.com.au/initthi.html?amp;cmd=SignIn&amp;co_partnerId=2&amp;errmsg=&amp;i1=&amp;pa1=&amp;pa2=&amp;pageType=&amp;pp=&amp;pUserId=&amp;ru=&amp;runame=%5C&amp;siteid=0&amp;UsingSSL=&amp;bshowgif=,http://www.phishtank.com/phish_detail.php?phish_id=1623516,2012-11-24T13:29:03+00:00,yes,2012-11-24T15:11:27+00:00,yes,Other
 1623514,http://www.jnsensi.com/images/?ref=http://us.battle.net/d3/en/index,http://www.phishtank.com/phish_detail.php?phish_id=1623514,2012-11-24T13:28:48+00:00,yes,2012-11-24T15:11:27+00:00,yes,Other
@@ -492,7 +555,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1623169,http://banket-hol.ru/modules/mod_sys/7772367573/login2491284/,http://www.phishtank.com/phish_detail.php?phish_id=1623169,2012-11-23T18:27:06+00:00,yes,2012-11-23T18:38:20+00:00,yes,Other
 1623168,http://www.toinhacabelos.com/ipinranga/proposta/resultado/hash/3832h3823h283h23snsy/acesso/proposta.asp/?id=1992837483883,http://www.phishtank.com/phish_detail.php?phish_id=1623168,2012-11-23T18:20:01+00:00,yes,2012-11-23T22:12:00+00:00,yes,Other
 1623167,http://www.toinhacabelos.com/ipinranga/proposta/resultado/hash/3832h3823h283h23snsy/acesso/proposta.asp?id=1992837483883,http://www.phishtank.com/phish_detail.php?phish_id=1623167,2012-11-23T18:20:00+00:00,yes,2012-11-23T22:12:01+00:00,yes,Other
-1623157,http://dotz-alteracao.ec.cx/,http://www.phishtank.com/phish_detail.php?phish_id=1623157,2012-11-23T18:00:52+00:00,yes,2012-11-23T18:29:14+00:00,yes,Other
 1623154,http://cielofidelidade.key.to/,http://www.phishtank.com/phish_detail.php?phish_id=1623154,2012-11-23T17:59:54+00:00,yes,2012-11-23T19:03:12+00:00,yes,Cielo
 1623153,http://infinity-sky.no-ip.info/script/,http://www.phishtank.com/phish_detail.php?phish_id=1623153,2012-11-23T17:56:24+00:00,yes,2012-11-23T19:03:12+00:00,yes,Cielo
 1623152,http://cadastro-cielo-fidelidade.com/,http://www.phishtank.com/phish_detail.php?phish_id=1623152,2012-11-23T17:51:06+00:00,yes,2012-11-23T19:03:12+00:00,yes,Cielo
@@ -553,7 +615,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1623040,http://creationsit.com/_vti_cnf,http://www.phishtank.com/phish_detail.php?phish_id=1623040,2012-11-23T15:38:33+00:00,yes,2012-11-23T18:28:43+00:00,yes,Other
 1623038,http://showdepremios.org/ML/jms/mlb/lgz/,http://www.phishtank.com/phish_detail.php?phish_id=1623038,2012-11-23T15:38:19+00:00,yes,2012-11-23T17:08:00+00:00,yes,Other
 1623036,http://showdepremios.org/ML/jms/mlb/,http://www.phishtank.com/phish_detail.php?phish_id=1623036,2012-11-23T15:38:15+00:00,yes,2012-11-23T16:51:33+00:00,yes,Other
-1623035,http://134.208.6.75/phpmyadmin/ebay.html?ht%5Cn%20tps://signin.ebay.de/ws/eBayISAPI.dll?SignIn&amp;errmsg=8&amp;pUserId=w&amp;co_partnerId=2&amp;siteid=77&amp;pageType=-1&amp;pa1=&amp;i1=-1&amp;UsingSSL=1&amp;k=1&amp;favoritenav=&amp;ru=http%3A%2F%2Fcgi5.ebay.de%2Fws%2FeBayISAPI.dll%3FSellHub3Visitor&amp;pp=&amp;bshowgif=0,http://www.phishtank.com/phish_detail.php?phish_id=1623035,2012-11-23T15:38:10+00:00,yes,2012-11-23T17:08:00+00:00,yes,Other
 1623031,http://www.kasssb-nv.net/sal/verification/index.php,http://www.phishtank.com/phish_detail.php?phish_id=1623031,2012-11-23T15:34:26+00:00,yes,2012-11-23T17:09:01+00:00,yes,Other
 1623030,http://www.jinxiuyuanlin.com/js/,http://www.phishtank.com/phish_detail.php?phish_id=1623030,2012-11-23T15:33:17+00:00,yes,2012-11-23T17:09:01+00:00,yes,Other
 1623026,http://www.in3h.com/panel-my-account-configeration-all-limited/panel-my-account-configeration-all-limited/,http://www.phishtank.com/phish_detail.php?phish_id=1623026,2012-11-23T15:30:49+00:00,yes,2012-11-23T17:09:32+00:00,yes,Other
@@ -689,7 +750,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1622822,http://www.moogor.com/js/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1622822,2012-11-23T10:13:11+00:00,yes,2012-11-23T16:44:49+00:00,yes,Other
 1622821,http://www.midea-0512.com/js/,http://www.phishtank.com/phish_detail.php?phish_id=1622821,2012-11-23T10:08:55+00:00,yes,2012-11-23T14:24:26+00:00,yes,Other
 1622820,http://www.meng-model.com/js/,http://www.phishtank.com/phish_detail.php?phish_id=1622820,2012-11-23T10:08:38+00:00,yes,2012-11-23T16:26:14+00:00,yes,Other
-1622819,http://www.max-power.com.pl/language/login.jsp.htm,http://www.phishtank.com/phish_detail.php?phish_id=1622819,2012-11-23T10:08:18+00:00,yes,2012-11-23T14:24:26+00:00,yes,Other
 1622817,http://www.marynails.hu/hmee/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1622817,2012-11-23T10:07:37+00:00,yes,2012-11-23T14:24:59+00:00,yes,Other
 1622815,http://www.lundoo.com/js/,http://www.phishtank.com/phish_detail.php?phish_id=1622815,2012-11-23T10:07:04+00:00,yes,2012-11-23T12:09:26+00:00,yes,Other
 1622814,http://www.longshu.com/images/,http://www.phishtank.com/phish_detail.php?phish_id=1622814,2012-11-23T10:06:43+00:00,yes,2012-11-23T14:24:59+00:00,yes,Other
@@ -944,11 +1004,8 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1622264,http://www.luluwebhost.com/wp-includes//images/smilies/hblprism.html,http://www.phishtank.com/phish_detail.php?phish_id=1622264,2012-11-22T15:20:14+00:00,yes,2012-11-22T16:31:49+00:00,yes,Other
 1622259,http://gdxjabh.com/js/,http://www.phishtank.com/phish_detail.php?phish_id=1622259,2012-11-22T15:14:18+00:00,yes,2012-11-22T16:32:19+00:00,yes,Blizzard
 1622258,http://fx.csbjkj.com/Images/,http://www.phishtank.com/phish_detail.php?phish_id=1622258,2012-11-22T15:13:24+00:00,yes,2012-11-22T16:32:19+00:00,yes,Blizzard
-1622256,http://programadotz.ec.cx/,http://www.phishtank.com/phish_detail.php?phish_id=1622256,2012-11-22T14:55:59+00:00,yes,2012-11-22T15:14:16+00:00,yes,Other
-1622254,http://programadotz.ec.cx/prontos/programa/dotz=%26aqi=%26aql=%26gs_sm=%26gs_upl=%26bav=on.2%2cor.r_gc.r_pw.%2ccf.osb%26fp=aa151a29d476e27c%26pf=p%26pdl=500,http://www.phishtank.com/phish_detail.php?phish_id=1622254,2012-11-22T14:54:48+00:00,yes,2012-11-22T15:14:47+00:00,yes,Other
 1622250,http://www.timcelularvideos.com/,http://www.phishtank.com/phish_detail.php?phish_id=1622250,2012-11-22T14:30:00+00:00,yes,2012-11-22T15:52:16+00:00,yes,Other
 1622245,http://trend-mico.net/maxx/root.php?cname=,http://www.phishtank.com/phish_detail.php?phish_id=1622245,2012-11-22T14:29:24+00:00,yes,2012-11-23T18:32:40+00:00,yes,Other
-1622242,http://dotzmoedas.ec.cx/,http://www.phishtank.com/phish_detail.php?phish_id=1622242,2012-11-22T14:27:19+00:00,yes,2012-11-22T14:56:35+00:00,yes,Other
 1622241,http://timcelularvideos.com/,http://www.phishtank.com/phish_detail.php?phish_id=1622241,2012-11-22T14:25:36+00:00,yes,2012-11-22T15:52:47+00:00,yes,Other
 1622240,http://exsclusiveworldnews.com/viewtradeorder.htm,http://www.phishtank.com/phish_detail.php?phish_id=1622240,2012-11-22T14:23:20+00:00,yes,2012-11-22T15:16:18+00:00,yes,Other
 1622238,http://eu.diablo.net.mx.rc-web.in/login.html,http://www.phishtank.com/phish_detail.php?phish_id=1622238,2012-11-22T14:20:19+00:00,yes,2012-11-22T15:04:10+00:00,yes,Blizzard
@@ -1506,7 +1563,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1619540,http://captreefleet.com/inform.htm,http://www.phishtank.com/phish_detail.php?phish_id=1619540,2012-11-16T04:33:15+00:00,yes,2012-11-16T11:41:42+00:00,yes,Other
 1619536,http://us.battle.net.ok.wwweb.asia/login/en/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1619536,2012-11-16T04:27:13+00:00,yes,2012-11-16T09:18:21+00:00,yes,Blizzard
 1619530,http://www2.redhongan.com/js/?mod=www,http://www.phishtank.com/phish_detail.php?phish_id=1619530,2012-11-16T03:27:44+00:00,yes,2012-11-16T06:57:01+00:00,yes,Other
-1619523,http://eu.diablo.net.mx.ms-login.in/login.html?app=bam&amp;app=wam&amp;eor=0&amp;ref=www.worldofwarcraft.com/account/,http://www.phishtank.com/phish_detail.php?phish_id=1619523,2012-11-16T03:26:37+00:00,yes,2012-11-16T05:07:25+00:00,yes,Other
 1619519,http://arangnarang.com/bbs/data/wwwPayPalcom9138/index.php?cmd=_login-submit,http://www.phishtank.com/phish_detail.php?phish_id=1619519,2012-11-16T02:16:26+00:00,yes,2012-11-16T04:18:41+00:00,yes,Other
 1619518,http://pastehtml.com/view/bvu1fs4vc.html,http://www.phishtank.com/phish_detail.php?phish_id=1619518,2012-11-16T02:11:46+00:00,yes,2012-11-16T04:20:11+00:00,yes,Other
 1619517,http://zumba-reggaeton.si/images/,http://www.phishtank.com/phish_detail.php?phish_id=1619517,2012-11-16T01:44:20+00:00,yes,2012-11-16T04:19:25+00:00,yes,Other
@@ -1547,7 +1603,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1619342,http://behangkopen.nu/wp-content/plugins/akismet/redlink.html,http://www.phishtank.com/phish_detail.php?phish_id=1619342,2012-11-15T16:15:50+00:00,yes,2012-11-15T18:48:27+00:00,yes,AOL
 1619337,http://top-marks.co.za/wp-content/plugins/inboundwriter/images/Trulia/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1619337,2012-11-15T16:07:42+00:00,yes,2012-11-15T17:33:14+00:00,yes,AOL
 1619334,http://123findhome.com/reader/home.htm,http://www.phishtank.com/phish_detail.php?phish_id=1619334,2012-11-15T15:56:35+00:00,yes,2012-11-15T17:34:45+00:00,yes,PayPal
-1619332,http://vb3343.7uw.net/feedback/feedback.html,http://www.phishtank.com/phish_detail.php?phish_id=1619332,2012-11-15T15:53:36+00:00,yes,2012-11-15T18:48:58+00:00,yes,Other
 1619319,http://home.comcast.net/~guvnor/,http://www.phishtank.com/phish_detail.php?phish_id=1619319,2012-11-15T15:44:34+00:00,yes,2012-11-15T17:41:53+00:00,yes,Google
 1619318,http://home.comcast.net/~guvnor,http://www.phishtank.com/phish_detail.php?phish_id=1619318,2012-11-15T15:44:33+00:00,yes,2012-11-15T18:50:31+00:00,yes,Google
 1619303,"http://kazlas.000space.com/forums.ws15,16,650,91478147/login.html",http://www.phishtank.com/phish_detail.php?phish_id=1619303,2012-11-15T15:24:11+00:00,yes,2012-11-15T18:51:31+00:00,yes,RuneScape
@@ -1633,12 +1688,10 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1618851,http://owolabitboiscofied.nazuka.net/ychoolgn12verifi2012c.php,http://www.phishtank.com/phish_detail.php?phish_id=1618851,2012-11-14T15:29:54+00:00,yes,2012-11-14T16:36:21+00:00,yes,Other
 1618840,http://webmail.wawm.k12.wi.us/exchweb/bin/auth/owalogon.asp?url=webmail.wawm.k12.wi.us/exchweb/bin/redir.asp?url=webmail-helpdesk.us.mn/&amp;reason=0,http://www.phishtank.com/phish_detail.php?phish_id=1618840,2012-11-14T15:07:51+00:00,yes,2012-11-14T17:30:09+00:00,yes,Other
 1618833,http://www.formstack.com/forms/?1327468-D2qozQ0qyM,http://www.phishtank.com/phish_detail.php?phish_id=1618833,2012-11-14T14:59:47+00:00,yes,2012-11-14T23:08:35+00:00,yes,Other
-1618831,http://eu.diablo.net.mx.uz-login.in/login.html?app=wam&amp;ref=www.worldofwarcraft.com/account/&amp;eor=0&amp;app=bam,http://www.phishtank.com/phish_detail.php?phish_id=1618831,2012-11-14T14:52:13+00:00,yes,2012-11-14T16:27:29+00:00,yes,Blizzard
 1618826,http://eu.diablo.net.mx.ux-login.in/login.html?app=wam&amp;ref=www.worldofwarcraft.com/account/&amp;eor=0&amp;app=bam,http://www.phishtank.com/phish_detail.php?phish_id=1618826,2012-11-14T14:46:30+00:00,yes,2012-11-14T16:29:37+00:00,yes,Blizzard
 1618822,http://webmail.genotec.ch/atmail/compose.php?id=20920&amp;folder=inbox&amp;cache=29241430.96733.1352577055289.javamail.root@www.mailgenetics.co.za&amp;func=reply&amp;type=forward,http://www.phishtank.com/phish_detail.php?phish_id=1618822,2012-11-14T14:32:41+00:00,yes,2012-11-14T18:20:17+00:00,yes,Other
 1618815,http://cafeauadedimineata.com/aauss/paypal.com.au/paypal.com.au/webscr.html?cmd=signin,http://www.phishtank.com/phish_detail.php?phish_id=1618815,2012-11-14T14:30:58+00:00,yes,2012-11-15T03:30:31+00:00,yes,Other
 1618803,http://structuresnw.com/templates/atomic/TT/login_verify2.php,http://www.phishtank.com/phish_detail.php?phish_id=1618803,2012-11-14T14:29:43+00:00,yes,2012-11-14T16:55:10+00:00,yes,Other
-1618802,http://eu.diablo.net.mx.ux-login.in/login.html?app=wamref=www.worldofwarcraft.com/account/eor=0app=bam,http://www.phishtank.com/phish_detail.php?phish_id=1618802,2012-11-14T14:24:00+00:00,yes,2012-11-14T16:28:31+00:00,yes,Blizzard
 1618801,http://webmail.genotec.ch/atmail/compose.php?id=20920folder=inboxcache=29241430.96733.1352577055289.javamail.root@www.mailgenetics.co.zafunc=replytype=forward,http://www.phishtank.com/phish_detail.php?phish_id=1618801,2012-11-14T14:14:37+00:00,yes,2012-11-14T18:21:52+00:00,yes,Other
 1618800,http://www.paga.li/templates/atomic/cadastro5.php,http://www.phishtank.com/phish_detail.php?phish_id=1618800,2012-11-14T14:12:52+00:00,yes,2012-11-14T16:00:04+00:00,yes,Mastercard
 1618792,http://paga.li/templates/atomic/cadastro5.php,http://www.phishtank.com/phish_detail.php?phish_id=1618792,2012-11-14T13:51:20+00:00,yes,2012-11-14T15:53:56+00:00,yes,Mastercard
@@ -2062,7 +2115,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1614205,http://wldzb.cn/js/?us.battle.net/login/en/?ref=http://rxzjocnus.battle.net/d3/en/index&app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1614205,2012-11-09T12:54:54+00:00,yes,2012-11-09T21:04:34+00:00,yes,Other
 1614204,http://wldzb.cn/js/?us.battle.net/login/en/?ref=http://bxvkhzzus.battle.net/d3/en/index&app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1614204,2012-11-09T12:54:53+00:00,yes,2012-11-09T17:56:33+00:00,yes,Other
 1614203,http://wldzb.cn/js/?us.battle.net/login/en/?ref=bxvkhzzus.battle.net/d3/en/index&app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1614203,2012-11-09T12:54:41+00:00,yes,2012-11-09T20:07:53+00:00,yes,Other
-1614202,http://us.diablo.com.zh-zod.in/login.html?app=wam&ref=www.battle.net/account/&eor=0&app=bam,http://www.phishtank.com/phish_detail.php?phish_id=1614202,2012-11-09T12:54:29+00:00,yes,2012-11-09T17:57:05+00:00,yes,Other
 1614199,http://skvs.stedu.net/images/index.htm?us.battle.net/login/en/?ref=tmvclbpus.battle.net/d3/en/index&app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1614199,2012-11-09T12:53:55+00:00,yes,2012-11-09T21:04:36+00:00,yes,Other
 1614198,http://skvs.stedu.net/images/index.htm?us.battle.net/login/en/?ref=neazemmus.battle.net/d3/en/indexapp=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1614198,2012-11-09T12:53:44+00:00,yes,2012-11-10T00:12:51+00:00,yes,Other
 1614197,http://skvs.stedu.net/images/index.htm?us.battle.net/login/en/?ref=pkaxsjcus.battle.net/d3/en/index&app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1614197,2012-11-09T12:53:43+00:00,yes,2012-11-09T15:55:17+00:00,yes,Other
@@ -2890,7 +2942,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1602617,http://survey.constantcontact.com/survey/a07e6kg74chh8usctfb/a011dh8vhv3w2/questions,http://www.phishtank.com/phish_detail.php?phish_id=1602617,2012-10-29T11:19:14+00:00,yes,2012-10-29T12:30:56+00:00,yes,Other
 1602572,http://clientele.mediashop.yonderhost.co.za/dede/djhfs/plsd/de/49i4uerh434r/cgs/webscrcmd=_login-run&dispatch=5885d80a13c0db1f8e263663d3faee8dc60d77e6184470d51976060a4ab6ee74.php,http://www.phishtank.com/phish_detail.php?phish_id=1602572,2012-10-29T09:46:26+00:00,yes,2012-10-29T11:11:18+00:00,yes,PayPal
 1602557,http://www.xmadwater.com.cn/js/?http://us.battle.net/login/en/?ref=http%3A%2F%2Fus.battle.net%2Fd3%2Fen%2Findex&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1602557,2012-10-29T09:19:41+00:00,yes,2012-10-29T09:34:20+00:00,yes,Other
-1602551,http://www.easyheater.nl/update.html,http://www.phishtank.com/phish_detail.php?phish_id=1602551,2012-10-29T09:00:36+00:00,yes,2012-10-29T09:51:33+00:00,yes,Vodafone
 1602543,http://davemenkehorst.com/wp-content/plugins/online/nwolb/login.html?URI=https://www.nwolb.com/default.aspx?refererident=ED08BC241B9C7998427E6D762278B1A051C09210&cookieid=71699&noscr=false&CookieCheck=2012-01-26T12:59:08,http://www.phishtank.com/phish_detail.php?phish_id=1602543,2012-10-29T08:48:37+00:00,yes,2012-10-29T09:53:05+00:00,yes,"NatWest Bank"
 1602542,http://davemenkehorst.com/wp-content/plugins/online/nwolb/,http://www.phishtank.com/phish_detail.php?phish_id=1602542,2012-10-29T08:48:33+00:00,yes,2012-10-29T09:54:07+00:00,yes,"NatWest Bank"
 1602502,http://www.denverluxurytour.com/scripts/cgi/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1602502,2012-10-29T06:03:17+00:00,yes,2012-10-29T07:29:31+00:00,yes,Vodafone
@@ -3557,7 +3608,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1592516,http://ceneval.ituem.com/Sql~/Atualizacao/OnlineBradesco/index.php,http://www.phishtank.com/phish_detail.php?phish_id=1592516,2012-10-18T00:20:32+00:00,yes,2012-10-19T09:03:08+00:00,yes,Bradesco
 1592514,http://ceneval.ituem.com/Sql~/Atualizacao/OnlineBradesco/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1592514,2012-10-18T00:19:55+00:00,yes,2012-10-24T00:11:10+00:00,yes,Bradesco
 1592512,http://ceneval.ituem.com/Sql~/Atualizacao/OnlineBradesco/,http://www.phishtank.com/phish_detail.php?phish_id=1592512,2012-10-18T00:19:17+00:00,yes,2012-10-24T00:10:34+00:00,yes,Bradesco
-1592477,http://fortefenix.com.br/resources/locale/pt_BR/BR/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1592477,2012-10-17T23:49:54+00:00,yes,2012-10-18T05:25:30+00:00,yes,Cielo
 1592473,http://www.fortefenix.com.br/resources/locale/pt_BR/BR/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1592473,2012-10-17T23:46:18+00:00,yes,2012-10-18T01:14:21+00:00,yes,Cielo
 1592472,http://www.fortefenix.com.br/resources/locale/pt_BR/BR/allyce.php,http://www.phishtank.com/phish_detail.php?phish_id=1592472,2012-10-17T23:46:17+00:00,yes,2012-10-18T01:14:22+00:00,yes,Cielo
 1592370,http://www.clcatv.cn/images/?http://us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1592370,2012-10-17T19:57:57+00:00,yes,2012-10-17T20:35:51+00:00,yes,Other
@@ -3921,7 +3971,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1585566,http://teacherstock.co.uk/RBMC8Qg1BHav4pYFzembFoENcG1gf3H4PaiYU4haol/cmThkRqcUe5qBbIUMLTMUxjVXHuoiRBMC8Qg1BHav4pYFzembFoENcG1gf3H4PaiYU4h/Verify/securedpage/update.php,http://www.phishtank.com/phish_detail.php?phish_id=1585566,2012-10-10T14:51:27+00:00,yes,2012-10-10T16:39:33+00:00,yes,AOL
 1585565,http://teacherstock.co.uk/RBMC8Qg1BHav4pYFzembFoENcG1gf3H4PaiYU4haol/cmThkRqcUe5qBbIUMLTMUxjVXHuoiRBMC8Qg1BHav4pYFzembFoENcG1gf3H4PaiYU4h/Verify/securedpage/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1585565,2012-10-10T14:51:11+00:00,yes,2012-10-10T16:39:33+00:00,yes,AOL
 1585549,http://www.mcbolos.com.br/libraries/joomla/log/loggers/moodle/,http://www.phishtank.com/phish_detail.php?phish_id=1585549,2012-10-10T14:23:07+00:00,yes,2012-10-11T04:18:06+00:00,yes,Cielo
-1585534,http://eu.diablo.net.cx.uc-login.in/login.html,http://www.phishtank.com/phish_detail.php?phish_id=1585534,2012-10-10T13:43:00+00:00,yes,2012-10-10T14:56:32+00:00,yes,Blizzard
 1585528,http://www.preferredcontracts.co.uk/js/ing.be/default.htm,http://www.phishtank.com/phish_detail.php?phish_id=1585528,2012-10-10T13:28:19+00:00,yes,2012-10-10T18:07:33+00:00,yes,Other
 1585508,http://www.hnyhx.cn/js/?http://us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1585508,2012-10-10T13:01:20+00:00,yes,2012-10-10T14:04:46+00:00,yes,Other
 1585505,http://www.jjscdc.cn/adfile/login.html?http://us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1585505,2012-10-10T13:01:16+00:00,yes,2012-10-10T14:05:17+00:00,yes,Other
@@ -4159,7 +4208,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1580038,http://www.jrgonzalezabogados.com/templates/disco-beat-template/images/bluedarkgrey/premiostododia/cadastro.php?O2UWQQ28TUW5JTUOZA54XSNKUUSTAW9ZX4VOTWVNQRSALMYLW4PUVDEQ97KI4TH1XDOR0KE1C7AYT0KPC0J9MXZU5JD8DU9A8X2HHGHUNSSG2D7EMPN0NM4S7GZJB9UI6V1NCHI10AHBONPACCJ1ZNS64SPF1JY7FYUS,http://www.phishtank.com/phish_detail.php?phish_id=1580038,2012-10-02T22:47:59+00:00,yes,2012-10-03T05:51:06+00:00,yes,Other
 1580037,http://www.jrgonzalezabogados.com/templates/disco-beat-template/images/bluedarkgrey/premiostododia/cadastro.php?5ejfws7wjiqyohfvb5ocgabq62qq7p2b4lq1dnv45azgensux5k46btc1vn4ge4ta1qqnlusvt9ah26f7qic2bo27b6nq9g107rwsloofxywz4c6tuiu78wdi210ah0jn2fgn55333z27b8z7pudwqqfsro39ymw,http://www.phishtank.com/phish_detail.php?phish_id=1580037,2012-10-02T22:47:52+00:00,yes,2012-10-03T05:48:42+00:00,yes,Other
 1580024,http://us.battle.net.login.en.ed-login.com/login/en/login.html?,http://www.phishtank.com/phish_detail.php?phish_id=1580024,2012-10-02T22:41:17+00:00,yes,2012-10-02T23:43:50+00:00,yes,Blizzard
-1580011,http://www.roselyncoaches.co.uk/images/stories/paypal.co.info.com.nz.au/webscr.php?cmd=_login-run&dispatch=5885d80a13c0db1f1ff80d546411d7f8a8350c132bc41e0934cfc023d4e8f9e5df36e6114296e75d9466990f11be0d27df36e6114296e75d9466990f11be0d27,http://www.phishtank.com/phish_detail.php?phish_id=1580011,2012-10-02T22:00:18+00:00,yes,2012-10-02T23:26:37+00:00,yes,PayPal
 1580001,http://www.berati.eu/in.html,http://www.phishtank.com/phish_detail.php?phish_id=1580001,2012-10-02T21:37:17+00:00,yes,2012-10-03T00:02:10+00:00,yes,PayPal
 1580000,http://www.mm11mm.net/shawati14/.../remax_aunction/,http://www.phishtank.com/phish_detail.php?phish_id=1580000,2012-10-02T21:35:05+00:00,yes,2012-10-02T23:13:46+00:00,yes,AOL
 1579935,http://secure.runescape.com.rr-wow.asia/m=weblogin/loginform.html?dest,http://www.phishtank.com/phish_detail.php?phish_id=1579935,2012-10-02T20:54:50+00:00,yes,2012-10-02T21:04:00+00:00,yes,Other
@@ -4199,7 +4247,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1578764,http://www.cmu1h.com/dll/index.htm?us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&amp;app=com-d,http://www.phishtank.com/phish_detail.php?phish_id=1578764,2012-10-01T19:57:48+00:00,yes,2012-10-01T20:12:07+00:00,yes,Other
 1578759,http://us.battle.net.login.en.qe-rs.com/login/en/login.html?app=wam,http://www.phishtank.com/phish_detail.php?phish_id=1578759,2012-10-01T19:57:10+00:00,yes,2012-10-01T20:05:34+00:00,yes,Other
 1578668,http://aeroclub.ua/upload/remax/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1578668,2012-10-01T19:02:59+00:00,yes,2012-10-01T19:25:54+00:00,yes,AOL
-1578667,http://www.wffms.com/tj/login.html,http://www.phishtank.com/phish_detail.php?phish_id=1578667,2012-10-01T19:01:51+00:00,yes,2012-10-01T19:45:14+00:00,yes,"World of Warcraft"
 1578666,http://www.wffms.com/tj/login.html?http://us.battle.net/login/en/?ref=http%3A%2F%2Fus.battle.net%2Fd3%2Fen%2Findex&amp;app=com-d3,http://www.phishtank.com/phish_detail.php?phish_id=1578666,2012-10-01T19:01:37+00:00,yes,2012-10-01T19:38:35+00:00,yes,"World of Warcraft"
 1578664,http://www.jurimanagement.com/pro/us.match.com-login.php,http://www.phishtank.com/phish_detail.php?phish_id=1578664,2012-10-01T19:00:31+00:00,yes,2012-10-01T19:45:14+00:00,yes,Other
 1578660,http://195.128.235.98/info.html,http://www.phishtank.com/phish_detail.php?phish_id=1578660,2012-10-01T18:57:51+00:00,yes,2012-10-06T15:18:32+00:00,yes,Other
@@ -4550,6 +4597,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1560534,http://paypal.com.cgi-bin.4s8d12vd52svs5fbf255ds5s6.cincoweb.com/home,http://www.phishtank.com/phish_detail.php?phish_id=1560534,2012-09-12T16:15:56+00:00,yes,2012-09-12T16:42:51+00:00,yes,Other
 1560464,http://www.formchamp.com/goform.php?id=38199/,http://www.phishtank.com/phish_detail.php?phish_id=1560464,2012-09-12T14:59:32+00:00,yes,2012-09-12T16:18:44+00:00,yes,Other
 1560438,http://camtaxbc.ro/cache/tp/ReMaX/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1560438,2012-09-12T13:55:41+00:00,yes,2012-09-12T14:41:22+00:00,yes,Other
+1560428,http://itarchitects.ca//Sql/Atualizacao/OnlineBradesco/Acesso_Cliente/add.php,http://www.phishtank.com/phish_detail.php?phish_id=1560428,2012-09-12T13:38:21+00:00,yes,2012-09-15T21:33:07+00:00,yes,Bradesco
 1560280,http://xboxepic.com/login/,http://www.phishtank.com/phish_detail.php?phish_id=1560280,2012-09-12T12:16:49+00:00,yes,2012-09-12T13:06:29+00:00,yes,Other
 1560271,http://www.mariagarcia.es/wp-includes/images/smilies/forms.asp.htm,http://www.phishtank.com/phish_detail.php?phish_id=1560271,2012-09-12T12:09:37+00:00,yes,2012-09-12T13:22:15+00:00,yes,"Co-operative Bank"
 1560182,http://1004bang.net/boardshop/data/theme/index/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1560182,2012-09-12T08:46:13+00:00,yes,2012-09-12T10:54:31+00:00,yes,Other
@@ -4773,6 +4821,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1545248,http://fordmotorrs.com/itm/Regal-2250-with/221114101407/username/not,http://www.phishtank.com/phish_detail.php?phish_id=1545248,2012-08-29T23:41:43+00:00,yes,2012-08-30T02:07:25+00:00,yes,PayPal
 1545236,http://matcdhup.com/pictures/us.match.com-login.php,http://www.phishtank.com/phish_detail.php?phish_id=1545236,2012-08-29T22:42:51+00:00,yes,2012-08-30T02:09:28+00:00,yes,Other
 1545063,http://houseofmonk.com.au/wolfcms/wolf/icons/file/property/properties/investment/remax/loopnet/New%20B2B/New%20B2B/index.htm,http://www.phishtank.com/phish_detail.php?phish_id=1545063,2012-08-29T19:00:11+00:00,yes,2012-08-29T20:05:00+00:00,yes,AOL
+1545044,http://campaign-shaker.com/Cadastramento/Bradesco/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1545044,2012-08-29T18:40:28+00:00,yes,2012-08-30T05:18:33+00:00,yes,Bradesco
 1545020,http://ziarulprofit.ro/php.php,http://www.phishtank.com/phish_detail.php?phish_id=1545020,2012-08-29T18:37:44+00:00,yes,2012-08-29T20:10:39+00:00,yes,AOL
 1544727,http://www.danstoica.ro/standvirtual/,http://www.phishtank.com/phish_detail.php?phish_id=1544727,2012-08-29T14:19:30+00:00,yes,2012-08-29T15:21:31+00:00,yes,Other
 1544668,http://www.stickersmakeyoufaster.com/del/,http://www.phishtank.com/phish_detail.php?phish_id=1544668,2012-08-29T10:25:19+00:00,yes,2012-08-29T13:46:02+00:00,yes,PayPal
@@ -4780,7 +4829,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1544596,http://ebay-1buy.blogspot.com/p/buy-c.html,http://www.phishtank.com/phish_detail.php?phish_id=1544596,2012-08-29T06:35:22+00:00,yes,2012-08-29T12:37:17+00:00,yes,PayPal
 1544472,http://www.fidelidade.departamentodepromocoes.com/cliente/index.php,http://www.phishtank.com/phish_detail.php?phish_id=1544472,2012-08-29T02:15:42+00:00,yes,2012-09-01T21:48:28+00:00,yes,"TAM Fidelidade"
 1544462,http://univeb.com.br/forum/styles/subsilver2/imageset/en/css/style/tmp/,http://www.phishtank.com/phish_detail.php?phish_id=1544462,2012-08-29T01:50:30+00:00,yes,2012-09-01T21:48:28+00:00,yes,Other
-1544293,http://erd.utazzneten.hu/uploads/assets/capac/make/your/account/more/safe/whit/us/paypal/casa/stasd/sasa/,http://www.phishtank.com/phish_detail.php?phish_id=1544293,2012-08-28T20:29:25+00:00,yes,2012-08-28T23:27:57+00:00,yes,PayPal
 1544234,http://www.ryanduritsa.com//remax/index.html,http://www.phishtank.com/phish_detail.php?phish_id=1544234,2012-08-28T19:44:36+00:00,yes,2012-08-28T20:30:40+00:00,yes,AOL
 1544140,http://www.bradedibr.com/,http://www.phishtank.com/phish_detail.php?phish_id=1544140,2012-08-28T18:24:30+00:00,yes,2012-08-28T20:44:27+00:00,yes,"Banco De Brasil"
 1544098,http://erroleastltd.yolasite.com/,http://www.phishtank.com/phish_detail.php?phish_id=1544098,2012-08-28T17:34:14+00:00,yes,2012-08-28T20:57:56+00:00,yes,Other
@@ -4899,7 +4947,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1538935,http://presslinkpr.com/del/,http://www.phishtank.com/phish_detail.php?phish_id=1538935,2012-08-22T16:12:43+00:00,yes,2012-08-22T18:52:59+00:00,yes,PayPal
 1538919,http://www.bccplanning.com/css/.css/,http://www.phishtank.com/phish_detail.php?phish_id=1538919,2012-08-22T15:55:59+00:00,yes,2012-09-08T15:29:31+00:00,yes,Other
 1538841,http://www.foodtruckfestivalsofne.com/del/,http://www.phishtank.com/phish_detail.php?phish_id=1538841,2012-08-22T14:36:23+00:00,yes,2012-08-22T18:56:44+00:00,yes,PayPal
-1538788,http://user-motors-online525.online-shops525.api-buying-onlineuser7795.interriorclean.info/JxZJGELGlnrj,http://www.phishtank.com/phish_detail.php?phish_id=1538788,2012-08-22T12:40:39+00:00,yes,2012-09-17T23:33:27+00:00,yes,PayPal
 1538744,http://anjang.or.kr/part/service/sample/product=93433.html,http://www.phishtank.com/phish_detail.php?phish_id=1538744,2012-08-22T10:29:32+00:00,yes,2012-08-22T18:50:09+00:00,yes,Other
 1538728,http://wunschkinder.net/breitbach/wp-content/uploads/AIB_Code_Card_Update_Form.html,http://www.phishtank.com/phish_detail.php?phish_id=1538728,2012-08-22T09:47:01+00:00,yes,2012-08-22T18:52:28+00:00,yes,Other
 1538684,http://online-tv-channels.tk/images/remax2/remax/logon.htm,http://www.phishtank.com/phish_detail.php?phish_id=1538684,2012-08-22T07:59:19+00:00,yes,2012-08-22T13:09:00+00:00,yes,Other
@@ -4948,7 +4995,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1536117,http://metereal.10001mb.com/ttf/Login.htm,http://www.phishtank.com/phish_detail.php?phish_id=1536117,2012-08-19T09:55:26+00:00,yes,2012-08-19T13:52:36+00:00,yes,Steam
 1535990,http://www.steam4free.txt.co.il/,http://www.phishtank.com/phish_detail.php?phish_id=1535990,2012-08-18T22:19:45+00:00,yes,2012-08-19T04:26:40+00:00,yes,Steam
 1535985,http://hindoc.dk/verizon/www.verizon.net_account_department_bill_form.html,http://www.phishtank.com/phish_detail.php?phish_id=1535985,2012-08-18T22:10:09+00:00,yes,2012-08-19T03:02:58+00:00,yes,Other
-1535892,http://refbeg.info/bey4l1zj58mp7h913027/amF6em1hbjY2QHQtb25saW5lLmRl/xDEsdR/a2x1bXRvLmNvbQ=Message-ID:,http://www.phishtank.com/phish_detail.php?phish_id=1535892,2012-08-18T17:17:33+00:00,yes,2012-08-18T19:05:11+00:00,yes,PayPal
 1535889,http://refbeg.info/aTcntrlde/webscr_prim.php?cmVmYmVnLmluZm8=uhsdsusu5485757kUJHNN546221oPLKj988777AOP784MTM0NTMxMDEzOA==,http://www.phishtank.com/phish_detail.php?phish_id=1535889,2012-08-18T17:15:39+00:00,yes,2012-08-18T19:21:51+00:00,yes,PayPal
 1535759,http://kintoo.com/demo/desiworld/wp-content/themes/newsworld/ficohsaem.php,http://www.phishtank.com/phish_detail.php?phish_id=1535759,2012-08-18T14:06:24+00:00,yes,2012-08-18T15:36:42+00:00,yes,Other
 1535662,http://transfertepual.cl/www.paypal.com/Limit1000/,http://www.phishtank.com/phish_detail.php?phish_id=1535662,2012-08-18T08:56:54+00:00,yes,2012-08-18T10:55:29+00:00,yes,PayPal
@@ -5681,7 +5727,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1392653,http://pastehtml.com/view/bevew8kur.html,http://www.phishtank.com/phish_detail.php?phish_id=1392653,2012-03-19T02:49:30+00:00,yes,2012-03-20T00:39:20+00:00,yes,Other
 1392472,http://google-adwords.com.vn/wp-content/themes/twentyeleven/languages/asb_logon.html,http://www.phishtank.com/phish_detail.php?phish_id=1392472,2012-03-18T21:06:50+00:00,yes,2012-03-18T21:58:39+00:00,yes,"ASB Bank Limited"
 1391780,http://davidbart.com/wp3/wp-admin/ae/ppbb/webscr.php?cmd=_flow&amp;SESSION=0iyOqWIBX0N3rpBRjb-SrnX8kwSeMZdtAwUxe5vDvI7mxhdC6KjVI9jQcr4&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d9384d85353843a619606282,http://www.phishtank.com/phish_detail.php?phish_id=1391780,2012-03-16T20:38:01+00:00,yes,2012-03-16T21:48:59+00:00,yes,PayPal
-1391592,http://www.dzelectronique.com/flu/e_id=77078071,http://www.phishtank.com/phish_detail.php?phish_id=1391592,2012-03-16T17:52:49+00:00,yes,2012-03-16T18:18:25+00:00,yes,Other
 1390530,http://pastehtml.com/view/bmro08kiz.html,http://www.phishtank.com/phish_detail.php?phish_id=1390530,2012-03-15T00:26:14+00:00,yes,2012-03-15T01:17:38+00:00,yes,Other
 1390292,http://pastehtml.com/view/bp295mypm.html,http://www.phishtank.com/phish_detail.php?phish_id=1390292,2012-03-14T19:20:47+00:00,yes,2012-03-14T20:37:19+00:00,yes,"Sulake Corporation"
 1389845,http://www.pastehtml.com/view/bqhp9pk6x.html,http://www.phishtank.com/phish_detail.php?phish_id=1389845,2012-03-14T04:01:53+00:00,yes,2012-03-14T07:16:34+00:00,yes,"Sulake Corporation"
@@ -5784,7 +5829,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1349385,http://www.ikspaarvoorlater.be/images/www.paypal.com/,http://www.phishtank.com/phish_detail.php?phish_id=1349385,2012-01-25T15:45:31+00:00,yes,2012-01-25T22:42:54+00:00,yes,PayPal
 1348170,http://www.thecontentlibrary.net/imag/profileimages/.security-message-identification-code/,http://www.phishtank.com/phish_detail.php?phish_id=1348170,2012-01-24T02:04:39+00:00,yes,2012-01-24T03:30:52+00:00,yes,PayPal
 1346789,http://esmokeing.blogspot.com/2012/01/7y.html,http://www.phishtank.com/phish_detail.php?phish_id=1346789,2012-01-21T21:30:23+00:00,yes,2012-01-22T01:04:28+00:00,yes,PayPal
-1345506,http://www.ortopediadoquadril.com.br/site/tmp/-/www.bankline.itau.com.br/,http://www.phishtank.com/phish_detail.php?phish_id=1345506,2012-01-20T13:45:26+00:00,yes,2012-01-20T14:38:03+00:00,yes,Itau
 1343029,http://evagelou.com.gr/eng/wp-content/uploads/2012/01/forms1.htm,http://www.phishtank.com/phish_detail.php?phish_id=1343029,2012-01-16T10:09:31+00:00,yes,2012-01-16T15:39:15+00:00,yes,"Santander UK"
 1341544,http://seekandknock.com/wp-includes/pomo/default.php,http://www.phishtank.com/phish_detail.php?phish_id=1341544,2012-01-14T09:26:39+00:00,yes,2012-01-15T04:17:58+00:00,yes,"Santander UK"
 1341518,http://davidfischhoff.co.uk/david/modules/vbv.php,http://www.phishtank.com/phish_detail.php?phish_id=1341518,2012-01-14T08:48:23+00:00,yes,2012-01-15T00:47:24+00:00,yes,Visa
@@ -5813,7 +5857,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1332178,http://aerw25aerwop.blogspot.com/,http://www.phishtank.com/phish_detail.php?phish_id=1332178,2011-12-27T16:30:44+00:00,yes,2011-12-27T17:05:03+00:00,yes,Orkut
 1331919,http://www.arabgmaes.com/it/,http://www.phishtank.com/phish_detail.php?phish_id=1331919,2011-12-26T20:07:26+00:00,yes,2011-12-26T22:29:36+00:00,yes,PayPal
 1331896,http://ptcsitegptc.blogspot.com/p/paypal.html,http://www.phishtank.com/phish_detail.php?phish_id=1331896,2011-12-26T18:30:01+00:00,yes,2011-12-27T01:11:10+00:00,yes,PayPal
-1331892,http://www.vysajp.org/news/wp-content/languages/ra.php,http://www.phishtank.com/phish_detail.php?phish_id=1331892,2011-12-26T18:07:28+00:00,yes,2011-12-27T00:49:25+00:00,yes,PayPal
 1331709,http://antares63.ru/templates/beez/http/www.paypal.com/uk/cgi-bin/webscr.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1f8e263663d3faee8db2b24f7b84f1819390b7e2d9283d70f1,http://www.phishtank.com/phish_detail.php?phish_id=1331709,2011-12-26T14:36:20+00:00,yes,2011-12-26T17:04:21+00:00,yes,PayPal
 1330792,http://pastehtml.com/view/bhw13y82j.html,http://www.phishtank.com/phish_detail.php?phish_id=1330792,2011-12-23T03:46:24+00:00,yes,2011-12-23T04:50:51+00:00,yes,"Sulake Corporation"
 1330788,http://pastehtml.com/view/bhraq5xfu.html,http://www.phishtank.com/phish_detail.php?phish_id=1330788,2011-12-23T03:09:20+00:00,yes,2011-12-23T04:38:15+00:00,yes,"Sulake Corporation"
@@ -5976,7 +6019,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1320880,http://java-curl-jar.googlecode.com/files/ebay.txt,http://www.phishtank.com/phish_detail.php?phish_id=1320880,2011-12-03T22:34:24+00:00,yes,2011-12-07T23:34:11+00:00,yes,PayPal
 1320338,http://pastehtml.com/view/bfyszdhoa.html,http://www.phishtank.com/phish_detail.php?phish_id=1320338,2011-12-02T14:15:12+00:00,yes,2011-12-02T22:08:07+00:00,yes,Other
 1320281,http://pastehtml.com/view/bfv2tcev1.html,http://www.phishtank.com/phish_detail.php?phish_id=1320281,2011-12-02T12:15:09+00:00,yes,2011-12-02T16:16:27+00:00,yes,Other
-1320039,http://www.orienteering.ural.ru/flags/unit2.php,http://www.phishtank.com/phish_detail.php?phish_id=1320039,2011-12-01T22:54:18+00:00,yes,2011-12-02T00:48:50+00:00,yes,Other
 1320026,http://pastehtml.com/view/bfu8t125c.html,http://www.phishtank.com/phish_detail.php?phish_id=1320026,2011-12-01T22:28:20+00:00,yes,2011-12-02T04:37:24+00:00,yes,"Sulake Corporation"
 1319682,http://pastehtml.com/view/bfu8jt1zk.html,http://www.phishtank.com/phish_detail.php?phish_id=1319682,2011-12-01T15:49:56+00:00,yes,2011-12-02T04:34:15+00:00,yes,"Sulake Corporation"
 1319540,http://pastehtml.com/view/bft8b9yy6.html,http://www.phishtank.com/phish_detail.php?phish_id=1319540,2011-12-01T10:24:03+00:00,yes,2011-12-02T00:37:21+00:00,yes,"Sulake Corporation"
@@ -6666,7 +6708,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1292696,http://freeregisters19.blogspot.com/,http://www.phishtank.com/phish_detail.php?phish_id=1292696,2011-10-13T20:25:18+00:00,yes,2011-10-13T22:04:58+00:00,yes,Orkut
 1292695,http://freeregisters24.blogspot.com/,http://www.phishtank.com/phish_detail.php?phish_id=1292695,2011-10-13T20:25:08+00:00,yes,2011-10-13T22:04:59+00:00,yes,Orkut
 1292694,http://freeregisters23.blogspot.com/,http://www.phishtank.com/phish_detail.php?phish_id=1292694,2011-10-13T20:25:00+00:00,yes,2011-10-14T00:24:23+00:00,yes,Orkut
-1292566,http://200.21.87.167/forma3.php,http://www.phishtank.com/phish_detail.php?phish_id=1292566,2011-10-13T17:46:02+00:00,yes,2011-10-13T19:15:54+00:00,yes,"eBay, Inc."
 1291864,http://chat-fun-webcam4.blogspot.com/,http://www.phishtank.com/phish_detail.php?phish_id=1291864,2011-10-12T12:29:57+00:00,yes,2011-10-12T14:04:33+00:00,yes,Orkut
 1291863,http://chat-fun-webcam.blogspot.com/,http://www.phishtank.com/phish_detail.php?phish_id=1291863,2011-10-12T12:29:42+00:00,yes,2011-10-12T14:04:33+00:00,yes,Orkut
 1291862,http://chat-fun-webcam1.blogspot.com/,http://www.phishtank.com/phish_detail.php?phish_id=1291862,2011-10-12T12:29:33+00:00,yes,2011-10-12T14:04:33+00:00,yes,Orkut
@@ -7001,7 +7042,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 1106185,http://weldoo.com,http://www.phishtank.com/phish_detail.php?phish_id=1106185,2011-01-21T11:39:05+00:00,yes,2011-01-21T15:26:52+00:00,yes,Other
 1105020,http://habbomoedassimples.blogspot.com/,http://www.phishtank.com/phish_detail.php?phish_id=1105020,2011-01-19T12:15:15+00:00,yes,2011-01-19T22:50:38+00:00,yes,"Sulake Corporation"
 1102369,http://dreamweaver0177.blogspot.com/,http://www.phishtank.com/phish_detail.php?phish_id=1102369,2011-01-17T11:23:45+00:00,yes,2011-01-17T13:33:53+00:00,yes,Facebook
-1097303,http://www.conviva.co.uk/modules/exmenu/model/Connect/PageType.php,http://www.phishtank.com/phish_detail.php?phish_id=1097303,2011-01-05T12:23:13+00:00,yes,2012-07-17T23:39:44+00:00,yes,PayPal
 1096980,http://sites.google.com/site/habbotuttogratis/,http://www.phishtank.com/phish_detail.php?phish_id=1096980,2011-01-04T12:17:23+00:00,yes,2011-01-10T18:47:53+00:00,yes,"Sulake Corporation"
 1096560,http://recebagratishabbomoedas.blogspot.com/,http://www.phishtank.com/phish_detail.php?phish_id=1096560,2011-01-03T11:16:26+00:00,yes,2011-01-04T03:34:18+00:00,yes,"Sulake Corporation"
 1096141,http://fdsagfdsggd.byethost4.com/,http://www.phishtank.com/phish_detail.php?phish_id=1096141,2011-01-01T21:36:10+00:00,yes,2011-01-01T23:38:05+00:00,yes,Other
@@ -7290,11 +7330,9 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 730740,http://embratoor.ahlamontada.com/,http://www.phishtank.com/phish_detail.php?phish_id=730740,2009-06-17T14:32:39+00:00,yes,2009-07-11T20:27:04+00:00,yes,Other
 726228,http://cartasi.it.pochta.ru/titolari.cartasi.it/,http://www.phishtank.com/phish_detail.php?phish_id=726228,2009-06-11T08:55:18+00:00,yes,2009-06-29T21:33:16+00:00,yes,Other
 724832,http://update.paypal.com.webid9q697.front.ru/secure_Paypal_email_id43432gjg98982beh32kJJKR9839MQAI9O39878e%20.htm?securelogin=yes,http://www.phishtank.com/phish_detail.php?phish_id=724832,2009-06-09T11:03:05+00:00,yes,2009-07-10T17:51:29+00:00,yes,PayPal
-709766,http://www.suyeland.com/pillow/DSC0193.php,http://www.phishtank.com/phish_detail.php?phish_id=709766,2009-05-23T10:29:15+00:00,yes,2009-05-25T17:17:39+00:00,yes,Other
 707675,http://commbansecurewealth.pochta.ru/personal/,http://www.phishtank.com/phish_detail.php?phish_id=707675,2009-05-20T22:42:38+00:00,yes,2009-05-25T23:09:13+00:00,yes,Other
 702207,http://64.129.131.130/bin-cgi/index.html,http://www.phishtank.com/phish_detail.php?phish_id=702207,2009-05-13T12:48:03+00:00,yes,2010-04-22T12:22:44+00:00,yes,PayPal
 701612,http://64.129.131.130/cgibin/index.html,http://www.phishtank.com/phish_detail.php?phish_id=701612,2009-05-12T16:19:03+00:00,yes,2009-06-28T13:54:33+00:00,yes,PayPal
-700718,http://www.zeszytyliterackie.pl/images/mailformsend.php,http://www.phishtank.com/phish_detail.php?phish_id=700718,2009-05-11T15:22:10+00:00,yes,2009-05-13T12:59:19+00:00,yes,PayPal
 688143,http://gboard.tup.ac.th/appserv/inde.html,http://www.phishtank.com/phish_detail.php?phish_id=688143,2009-04-21T11:35:08+00:00,yes,2009-05-14T02:43:54+00:00,yes,PayPal
 686699,http://wirerover.com/webalizer/index3.html,http://www.phishtank.com/phish_detail.php?phish_id=686699,2009-04-19T05:04:05+00:00,yes,2009-04-19T13:08:31+00:00,yes,PayPal
 683720,http://secure.regions.com.id8321.newmail.ru/secure_membin_Regions_Online_user_id43432gjg98982beh32k9878e.htm?securelogin=yes,http://www.phishtank.com/phish_detail.php?phish_id=683720,2009-04-12T21:48:58+00:00,yes,2009-04-14T19:45:56+00:00,yes,"Regions Bank"
